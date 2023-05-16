@@ -1,0 +1,133 @@
+disability_type,skills_one,skills_two,company,city,province,job_type,position
+Visual Impairment,Java,Python,TechSol Solutions,Jakarta,DKI Jakarta,Full-time,Software Engineer
+Hearing Impairment,Graphic Design,Adobe Photoshop,Artistic Creations,Bandung,West Java,Part-time,Graphic Designer
+Physical Disability,Mechanical Engineering,AutoCAD,MegaTech Industries,Surabaya,East Java,Full-time,Mechanical Engineer
+Cognitive Disability,Data Analysis,Microsoft Excel,Analytica Solutions,Yogyakarta,Special Region of Yogyakarta,Contract,Data Analyst
+Neurodiversity (Autism Spectrum Disorder),Software Testing,Bug Tracking,BugBusters,Semarang,Central Java,Full-time,Software Tester
+Speech Impairment,Customer Service,Communication,Supportive Services,Medan,North Sumatra,Full-time,Customer Service Representative
+Mobility Impairment,Data Science,Machine Learning,DataGenius,Makassar,South Sulawesi,Remote,Data Scientist
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Project Management,Team Leadership,Agile Solutions,Palembang,South Sumatra,Full-time,Project Manager
+Visual Impairment,Web Development,HTML,WebWizards,Denpasar,Bali,Part-time,Web Developer
+Physical Disability,Industrial Design,3D Modeling,Design Innovations,Malang,East Java,Contract,Industrial Designer
+Visual Impairment,Content Writing,Blogging,Content Masters,Bandung,West Java,Full-time,Content Writer
+Hearing Impairment,Video Editing,Adobe Premiere Pro,Visual Productions,Surabaya,East Java,Part-time,Video Editor
+Physical Disability,Civil Engineering,AutoCAD,InfraTech Solutions,Jakarta,DKI Jakarta,Full-time,Civil Engineer
+Cognitive Disability,Data Analysis,Statistical Modeling,Analytical Insights,Yogyakarta,Special Region of Yogyakarta,Full-time,Data Analyst
+Visual Impairment,No specific skills,No specific skills,Inclusive Solutions,Jakarta,DKI Jakarta,Part-time,Office Assistant
+Hearing Impairment,Web Design,HTML,WebCreators,Bandung,West Java,Full-time,Front-end Developer
+Mobility Impairment,Accounting,Financial Analysis,Finance Experts,Surabaya,East Java,Full-time,Financial Analyst
+Neurodiversity (Autism Spectrum Disorder),Data Entry,Microsoft Excel,Data Solutions,Jakarta,DKI Jakarta,Part-time,Data Entry Operator
+Visual Impairment,Content Management,Social Media Marketing,Digital Marketing Pros,Semarang,Central Java,Full-time,Social Media Manager
+Hearing Impairment,Copywriting,Proofreading,Creative Writers,Bandung,West Java,Freelance,Copywriter
+Physical Disability,Electrical Engineering,Circuit Design,ElectroTech Solutions,Medan,North Sumatra,Full-time,Electrical Engineer
+Cognitive Disability,Customer Support,Problem-solving,Support Center,Surabaya,East Java,Contract,Technical Support Specialist
+Visual Impairment,Web Development,PHP,WebGenius,Jakarta,DKI Jakarta,Remote,Full-stack Developer
+Hearing Impairment,Digital Marketing,SEO,Marketing Solutions,Yogyakarta,Special Region of Yogyakarta,Part-time,Digital Marketing Specialist
+Physical Disability,Architecture,AutoCAD,ArchiDesign,Bandung,West Java,Full-time,Architect
+Visual Impairment,Data Analysis,Python,DataTech Solutions,Jakarta,DKI Jakarta,Full-time,Data Analyst
+Hearing Impairment,Content Writing,Social Media Management,Social Buzz,Bandung,West Java,Part-time,Content Specialist
+Physical Disability,Mechanical Engineering,AutoCAD,Product Design Pro,Surabaya,East Java,Full-time,Product Engineer
+Cognitive Disability,Accounting,Financial Planning,Finance Plus,Yogyakarta,Special Region of Yogyakarta,Contract,Financial Planner
+Neurodiversity (Autism Spectrum Disorder),Software Development,Java,CodeCrafters,Semarang,Central Java,Full-time,Software Developer
+Speech Impairment,Customer Service,Problem-solving,HelpLine Solutions,Medan,North Sumatra,Full-time,Customer Support Representative
+Mobility Impairment,Data Science,Statistical Analysis,StatGenius,Makassar,South Sulawesi,Remote,Statistical Analyst
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Project Management,Team Coordination,ProjectPro,Palembang,South Sumatra,Full-time,Project Coordinator
+Visual Impairment,Web Design,User Interface Design,WebMasters,Denpasar,Bali,Part-time,UI/UX Designer
+Physical Disability,Industrial Design,Product Prototyping,ProtoTech,Malang,East Java,Contract,Product Designer
+Visual Impairment,Content Writing,Blogging,WordSmiths,Bandung,West Java,Full-time,Content Creator
+Hearing Impairment,Video Editing,Adobe After Effects,PostPro Studios,Surabaya,East Java,Part-time,Video Producer
+Physical Disability,Civil Engineering,Structural Analysis,StructuraTech,Jakarta,DKI Jakarta,Full-time,Structural Engineer
+Cognitive Disability,Data Analysis,Data Visualization,DataVisions,Yogyakarta,Special Region of Yogyakarta,Full-time,Data Visualization Specialist
+Visual Impairment,No specific skills,No specific skills,Inclusive Solutions,Jakarta,DKI Jakarta,Part-time,Office Assistant
+Hearing Impairment,Web Design,Front-end Development,WebFront,Bandung,West Java,Full-time,Web Designer
+Mobility Impairment,Marketing Strategy,Market Research,Market Insights,Surabaya,East Java,Full-time,Marketing Analyst
+Neurodiversity (Autism Spectrum Disorder),Data Entry,Data Management,DataMinds,Jakarta,DKI Jakarta,Part-time,Data Administrator
+Visual Impairment,Content Writing,Copy Editing,WordCrafters,Semarang,Central Java,Full-time,Editor
+Hearing Impairment,Graphic Design,Brand Identity Design,VisualImpact,Bandung,West Java,Contract,Graphic Designer
+Physical Disability,Electrical Engineering,Power Systems Engineering,PowerTech,Medan,North Sumatra,Full-time,Power Systems Engineer
+Cognitive Disability,Customer Service,Communication,ServiceConnect,Surabaya,East Java,Contract,Customer Support Specialist
+Visual Impairment,Web Development,Front-end Development,WebWonders,Jakarta,DKI Jakarta,Remote,Front-end Developer
+Hearing Impairment,Digital Marketing,Content Marketing,DigiPro,Yogyakarta,Special Region of Yogyakarta,Part-time,Digital Marketer
+Physical Disability,Architecture,Interior Design,ArchInteriors,Bandung,West Java,Full-time,Interior Designer
+Visual Impairment,Data Analysis,R,Data Science Solutions,Jakarta,DKI Jakarta,Full-time,Data Scientist
+Hearing Impairment,Content Writing,Social Media Marketing,Social Buzz,Bandung,West Java,Part-time,Content Specialist
+Physical Disability,Mechanical Engineering,CAD,DesignTech,Surabaya,East Java,Full-time,Design Engineer
+Cognitive Disability,Finance,Financial Analysis,FinServe,Yogyakarta,Special Region of Yogyakarta,Contract,Financial Analyst
+Neurodiversity (Autism Spectrum Disorder),Software Development,JavaScript,CodeCrafters,Semarang,Central Java,Full-time,Full-stack Developer
+Speech Impairment,Customer Service,Problem-solving,SupportLine,Medan,North Sumatra,Full-time,Customer Support Representative
+Mobility Impairment,Data Science,Machine Learning,DataGenius,Makassar,South Sulawesi,Remote,Data Scientist
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Project Management,Team Leadership,ProjectPro,Palembang,South Sumatra,Full-time,Project Manager
+Visual Impairment,Web Design,User Experience Design,WebMasters,Denpasar,Bali,Part-time,UI/UX Designer
+Physical Disability,Industrial Design,3D Modeling,ProtoTech,Malang,East Java,Contract,Industrial Designer
+Visual Impairment,Content Writing,Blogging,WordSmiths,Bandung,West Java,Full-time,Content Writer
+Hearing Impairment,Video Editing,Adobe Premiere Pro,VideoCrafters,Surabaya,East Java,Part-time,Video Editor
+Physical Disability,Civil Engineering,Structural Engineering,CivilPro,Jakarta,DKI Jakarta,Full-time,Civil Engineer
+Cognitive Disability,Data Analysis,Statistical Modeling,DataTech Insights,Yogyakarta,Special Region of Yogyakarta,Full-time,Data Analyst
+Visual Impairment,No specific skills,No specific skills,Inclusive Solutions,Jakarta,DKI Jakarta,Part-time,Office Assistant
+Hearing Impairment,Web Design,Front-end Development,WebFront,Bandung,West Java,Full-time,Web Developer
+Mobility Impairment,Marketing Strategy,Market Research,MarketPro,Surabaya,East Java,Full-time,Marketing Analyst
+Neurodiversity (Autism Spectrum Disorder),Data Entry,Data Management,DataMinds,Jakarta,DKI Jakarta,Part-time,Data Entry Operator
+Visual Impairment,Content Writing,Copyediting,WordCrafters,Semarang,Central Java,Full-time,Editor
+Hearing Impairment,Graphic Design,Brand Identity Design,VisualImpact,Bandung,West Java,Contract,Graphic Designer
+Physical Disability,Electrical Engineering,Power Systems Engineering,PowerTech,Medan,North Sumatra,Full-time,Electrical Engineer
+Cognitive Disability,Customer Service,Communication,SupportConnect,Surabaya,East Java,Contract,Customer Service Representative
+Visual Impairment,Web Development,Front-end Development,WebWonders,Jakarta,DKI Jakarta,Remote,Web Developer
+Hearing Impairment,Digital Marketing,Content Creation,DigiPro,Yogyakarta,Special Region of Yogyakarta,Part-time,Digital Marketer
+Physical Disability,Architecture,Interior Design,ArchInteriors,Bandung,West Java,Full-time,Interior Designer
+Visual Impairment,Data Analysis,Python,DataTech Solutions,Jakarta,DKI Jakarta,Full-time,Data Analyst
+Hearing Impairment,Content Writing,Social Media Management,Social Buzz,Bandung,West Java,Part-time,Content Specialist
+Physical Disability,Mechanical Engineering,AutoCAD,Product Design Pro,Surabaya,East Java,Full-time,Product Engineer
+Cognitive Disability,Accounting,Financial Planning,Finance Plus,Yogyakarta,Special Region of Yogyakarta,Contract,Financial Planner
+Neurodiversity (Autism Spectrum Disorder),Software Development,Java,CodeCrafters,Semarang,Central Java,Full-time,Software Developer
+Speech Impairment,Customer Service,Problem-solving,HelpLine Solutions,Medan,North Sumatra,Full-time,Customer Support Representative
+Mobility Impairment,Data Science,Statistical Analysis,StatGenius,Makassar,South Sulawesi,Remote,Statistical Analyst
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Project Management,Team Coordination,ProjectPro,Palembang,South Sumatra,Full-time,Project Coordinator
+Visual Impairment,Web Design,User Interface Design,WebMasters,Denpasar,Bali,Part-time,UI/UX Designer
+Physical Disability,Industrial Design,Product Prototyping,ProtoTech,Malang,East Java,Contract,Product Designer
+Visual Impairment,Content Writing,Blogging,WordSmiths,Bandung,West Java,Full-time,Content Writer
+Hearing Impairment,Video Editing,Adobe Premiere Pro,PostPro Studios,Surabaya,East Java,Part-time,Video Editor
+Physical Disability,Civil Engineering,Structural Analysis,StructuraTech,Jakarta,DKI Jakarta,Full-time,Structural Engineer
+Cognitive Disability,Data Analysis,Data Visualization,DataVisions,Yogyakarta,Special Region of Yogyakarta,Full-time,Data Visualization Specialist
+Visual Impairment,No specific skills,Inclusive Solutions,Jakarta,DKI Jakarta,Part-time,Office Assistant,
+Hearing Impairment,Web Design,Front-end Development,WebFront,Bandung,West Java,Full-time,Web Designer
+Mobility Impairment,Marketing Strategy,Market Research,Market Insights,Surabaya,East Java,Full-time,Marketing Analyst
+Neurodiversity (Autism Spectrum Disorder),Data Entry,Data Management,DataMinds,Jakarta,DKI Jakarta,Part-time,Data Administrator
+Visual Impairment,Content Writing,Copy Editing,WordCrafters,Semarang,Central Java,Full-time,Editor
+Hearing Impairment,Graphic Design,Brand Identity Design,VisualImpact,Bandung,West Java,Contract,Graphic Designer
+Physical Disability,Electrical Engineering,Power Systems Engineering,PowerTech,Medan,North Sumatra,Full-time,Power Systems Engineer
+Cognitive Disability,Customer Service,Communication,ServiceConnect,Surabaya,East Java,Contract,Customer Support Specialist
+Visual Impairment,Web Development,Front-end Development,WebWonders,Jakarta,DKI Jakarta,Remote,Front-end Developer
+Hearing Impairment,Digital Marketing,Content Marketing,DigiPro,Yogyakarta,Special Region of Yogyakarta,Part-time,Digital Marketer
+Physical Disability,Architecture,Interior Design,ArchInteriors,Bandung,West Java,Full-time,Interior Designer
+Visual Impairment,Java,Python,TechSol Solutions,Jakarta,DKI Jakarta,Full-time,Software Engineer
+Hearing Impairment,Graphic Design,Adobe Photoshop,Artistic Creations,Bandung,West Java,Part-time,Graphic Designer
+Physical Disability,Mechanical Engineering,AutoCAD,MegaTech Industries,Surabaya,East Java,Full-time,Mechanical Engineer
+Cognitive Disability,Data Analysis,Microsoft Excel,Analytica Solutions,Yogyakarta,Special Region of Yogyakarta,Contract,Data Analyst
+Neurodiversity (Autism Spectrum Disorder),Software Testing,Bug Tracking,BugBusters,Semarang,Central Java,Full-time,Software Tester
+Speech Impairment,Customer Service,Communication,Supportive Services,Medan,North Sumatra,Full-time,Customer Service Representative
+Mobility Impairment,Data Science,Machine Learning,DataGenius,Makassar,South Sulawesi,Remote,Data Scientist
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Project Management,Team Leadership,Agile Solutions,Palembang,South Sumatra,Full-time,Project Manager
+Visual Impairment,Web Development,HTML,WebWizards,Denpasar,Bali,Part-time,Web Developer
+Physical Disability,Industrial Design,3D Modeling,Design Innovations,Malang,East Java,Contract,Industrial Designer
+Visual Impairment,Content Writing,Blogging,Content Masters,Bandung,West Java,Full-time,Content Writer
+Hearing Impairment,Video Editing,Adobe Premiere Pro,Visual Productions,Surabaya,East Java,Part-time,Video Editor
+Physical Disability,Civil Engineering,AutoCAD,InfraTech Solutions,Jakarta,DKI Jakarta,Full-time,Civil Engineer
+Cognitive Disability,Data Analysis,Statistical Modeling,Analytical Insights,Yogyakarta,Special Region of Yogyakarta,Full-time,Data Analyst
+Visual Impairment,No specific skills,No specific skills,Inclusive Solutions,Jakarta,DKI Jakarta,Part-time,Office Assistant
+Hearing Impairment,Web Design,CSS,WebCreators,Bandung,West Java,Full-time,Front-end Developer
+Mobility Impairment,Accounting,Financial Analysis,Finance Experts,Surabaya,East Java,Full-time,Financial Analyst
+Neurodiversity (Autism Spectrum Disorder),Data Entry,Microsoft Excel,Data Solutions,Jakarta,DKI Jakarta,Part-time,Data Entry Operator
+Visual Impairment,Content Management,Social Media Marketing,Digital Marketing Pros,Semarang,Central Java,Full-time,Social Media Manager
+Hearing Impairment,Copywriting,Proofreading,Creative Writers,Bandung,West Java,Freelance,Copywriter
+Physical Disability,Electrical Engineering,Circuit Design,ElectroTech Solutions,Medan,North Sumatra,Full-time,Electrical Engineer
+Cognitive Disability,Customer Support,Problem-solving,Support Center,Surabaya,East Java,Contract,Technical Support Specialist
+Visual Impairment,Web Development,PHP,WebGenius,Jakarta,DKI Jakarta,Remote,Full-stack Developer
+Hearing Impairment,Digital Marketing,SEO,Marketing Solutions,Yogyakarta,Special Region of Yogyakarta,Part-time,Digital Marketing Specialist
+Physical Disability,Architecture,AutoCAD,ArchiDesign,Bandung,West Java,Full-time,Architect
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Project Coordination,Time Management,CoordiPro,Surabaya,East Java,Full-time,Project Coordinator
+Visual Impairment,Content Editing,Proofreading,WordCrafters,Semarang,Central Java,Freelance,Editor
+Hearing Impairment,Video Production,Adobe Premiere Pro,Motion Studios,Jakarta,DKI Jakarta,Part-time,Video Producer
+Mobility Impairment,Data Analysis,Statistical Modeling,Analytica Insights,Yogyakarta,Special Region of Yogyakarta,Full-time,Data Scientist
+Cognitive Disability,Administrative Support,Data Entry,AdminAssist,Medan,North Sumatra,Full-time,Administrative Assistant
+Visual Impairment,Web Design,User Experience (UX) Design,UX Innovations,Bandung,West Java,Contract,UX Designer
+Hearing Impairment,Content Writing,Blogging,BlogMasters,Surabaya,East Java,Freelance,Blogger
