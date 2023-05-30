@@ -1,0 +1,1007 @@
+disability_type,skills_one,skills_two,company,city,province,job_type,position,is_hearing_impairment,is_visual_impairment,is_physical_disability,is_all_types_of_disabilities,is_neurodiversity,is_mobility_impairment,is_speech_impairment,is_cognitive_disability,is_learning_disability
+Visual Impairment,Communication skills,Microsoft Excel,ABC Corporation,Jakarta,Jakarta Raya,Full-time,Data Analyst,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Teamwork,Python,XYZ Solutions,Bandung,Jawa Barat,Contract,Software Developer,1,0,0,0,0,0,0,0,0
+Physical Disability,Leadership,Java,Acme Technologies,Surabaya,Jawa Timur,Part-time,IT Support Specialist,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,Global Ventures,Medan,Sumatera Utara,Full-time,Web Designer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,Innovate Systems,Semarang,Jawa Tengah,Contract,Software Tester,0,0,0,0,0,0,0,1,0
+Visual Impairment,Problem-solving,JavaScript,ByteBytes,Yogyakarta,Yogyakarta,Full-time,UX Designer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,PHP,Data Solutions,Bali,Bali,Part-time,Software Engineer,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,CyberTech,Surabaya,Jawa Timur,Full-time,Data Scientist,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,Ruby on Rails,CodeCraft,Bandung,Jawa Barat,Contract,Full-stack Developer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,TechGenius,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Office,Innovation Hub,Jakarta,Jakarta Raya,Full-time,Administrative Assistant,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Teamwork,Java,TechSolutions,Bandung,Jawa Barat,Contract,Software Developer,1,0,0,0,0,0,0,0,0
+Physical Disability,Leadership,JavaScript,InfoTech,Surabaya,Jawa Timur,Part-time,Web Developer,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,Design Co.,Medan,Sumatera Utara,Full-time,Graphic Designer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,Python,DataTech,Semarang,Jawa Tengah,Contract,Data Scientist,0,0,0,0,0,0,0,1,0
+Visual Impairment,Problem-solving,UI/UX design,WebCraft,Yogyakarta,Yogyakarta,Full-time,UX Designer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,Java,AppSolutions,Bali,Bali,Part-time,Software Engineer,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,TechWizards,Surabaya,Jawa Timur,Full-time,Data Analyst,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,PHP,Coding Solutions,Bandung,Jawa Barat,Contract,Full-stack Developer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,InfoLab,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Excel,TechHub,Jakarta,Jakarta Raya,Full-time,Administrative Assistant,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Teamwork,Python,CodeByte,Bandung,Jawa Barat,Contract,Software Developer,1,0,0,0,0,0,0,0,0
+Physical Disability,Leadership,Java,ByteTech,Surabaya,Jawa Timur,Part-time,IT Support Specialist,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,Innovative Solutions,Medan,Sumatera Utara,Full-time,Web Designer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,DataGenius,Semarang,Jawa Tengah,Contract,Software Tester,0,0,0,0,0,0,0,1,0
+Visual Impairment,Problem-solving,JavaScript,TechBytes,Yogyakarta,Yogyakarta,Full-time,UX Designer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,PHP,InfoSolutions,Bali,Bali,Part-time,Software Engineer,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,TechGenie,Surabaya,Jawa Timur,Full-time,Data Scientist,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,Ruby on Rails,WebWorks,Bandung,Jawa Barat,Contract,Full-stack Developer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,TechConnect,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Office,Innovative Solutions,Jakarta,Jakarta Raya,Full-time,Administrative Assistant,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Teamwork,Java,CodingSolutions,Bandung,Jawa Barat,Contract,Software Developer,1,0,0,0,0,0,0,0,0
+Physical Disability,Leadership,JavaScript,ByteTech,Surabaya,Jawa Timur,Part-time,Web Developer,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,DesignSolutions,Medan,Sumatera Utara,Full-time,Graphic Designer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,Python,TechLab,Semarang,Jawa Tengah,Contract,Data Scientist,0,0,0,0,0,0,0,1,0
+Visual Impairment,Problem-solving,UI/UX design,CodeCraft,Yogyakarta,Yogyakarta,Full-time,UX Designer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,Java,TechSolutions,Bali,Bali,Part-time,Software Engineer,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,DataBytes,Surabaya,Jawa Timur,Full-time,Data Analyst,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,PHP,CodingTech,Bandung,Jawa Barat,Contract,Full-stack Developer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,InfoTech,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Excel,TechCo,Jakarta,Jakarta Raya,Full-time,Administrative Assistant,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Teamwork,Python,DataCraft,Bandung,Jawa Barat,Contract,Software Developer,1,0,0,0,0,0,0,0,0
+Physical Disability,Leadership,Java,TechSolutions,Surabaya,Jawa Timur,Part-time,IT Support Specialist,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,WebTech,Medan,Sumatera Utara,Full-time,Web Designer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,ByteBytes,Semarang,Jawa Tengah,Contract,Software Tester,0,0,0,0,0,0,0,1,0
+Visual Impairment,Problem-solving,JavaScript,Innovate Systems,Yogyakarta,Yogyakarta,Full-time,UX Designer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,PHP,CodeGenius,Bali,Bali,Part-time,Software Engineer,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,TechSolutions,Surabaya,Jawa Timur,Full-time,Data Scientist,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,Ruby on Rails,InfoLab,Bandung,Jawa Barat,Contract,Full-stack Developer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,ByteTech,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Excel,Innovation Hub,Jakarta,Jakarta Raya,Full-time,Administrative Assistant,0,1,0,0,0,0,0,0,0
+Learning Disability,Time management,HTML,WebWorks,Medan,Sumatera Utara,Full-time,Web Designer,0,0,0,0,0,0,0,0,1
+Learning Disability,Critical thinking,Ruby on Rails,WebCraft,Bandung,Jawa Barat,Contract,Full-stack Developer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,ByteBytes,Semarang,Jawa Tengah,Part-time,Contract,0,0,0,0,0,0,0,1,0
+Physical Disability,Leadership,Java,Tech Solutions,Surabaya,Jawa Timur,Part-time,IT Support Specialist,0,0,1,0,0,0,0,0,0
+Hearing Impairment,Communication skills,Microsoft Excel,ABC Corporation,Jakarta,Jakarta Raya,Full-time,Data Analyst,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Leadership,Java,Acme Technologies,Surabaya,Jawa Timur,Part-time,IT Support Specialist,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Time management,HTML,Global Ventures,Medan,Sumatera Utara,Full-time,Web Designer,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Analytical skills,C++,Innovate Systems,Semarang,Jawa Tengah,Contract,Software Tester,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Problem-solving,JavaScript,ByteBytes,Yogyakarta,Yogyakarta,Full-time,UX Designer,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Collaboration,SQL,CyberTech,Surabaya,Jawa Timur,Full-time,Data Scientist,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Critical thinking,Ruby on Rails,CodeCraft,Bandung,Jawa Barat,Contract,Full-stack Developer,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Attention to detail,Python,TechGenius,Jakarta,Jakarta Raya,Part-time,Data Engineer,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Communication skills,Microsoft Office,Innovation Hub,Jakarta,Jakarta Raya,Full-time,Administrative Assistant,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Leadership,JavaScript,InfoTech,Surabaya,Jawa Timur,Part-time,Web Developer,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Time management,HTML,Design Co.,Medan,Sumatera Utara,Full-time,Graphic Designer,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Analytical skills,Python,DataTech,Semarang,Jawa Tengah,Contract,Data Scientist,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Problem-solving,UI/UX design,WebCraft,Yogyakarta,Yogyakarta,Full-time,UX Designer,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Collaboration,SQL,TechWizards,Surabaya,Jawa Timur,Full-time,Data Analyst,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Critical thinking,PHP,Coding Solutions,Bandung,Jawa Barat,Contract,Full-stack Developer,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Attention to detail,Python,InfoLab,Jakarta,Jakarta Raya,Part-time,Data Engineer,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Communication skills,Microsoft Excel,TechHub,Jakarta,Jakarta Raya,Full-time,Administrative Assistant,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Leadership,Java,ByteTech,Surabaya,Jawa Timur,Part-time,IT Support Specialist,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Time management,HTML,Innovative Solutions,Medan,Sumatera Utara,Full-time,Web Designer,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Analytical skills,C++,DataGenius,Semarang,Jawa Tengah,Contract,Software Tester,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Problem-solving,JavaScript,TechBytes,Yogyakarta,Yogyakarta,Full-time,UX Designer,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Collaboration,SQL,TechGenie,Surabaya,Jawa Timur,Full-time,Data Scientist,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Critical thinking,Ruby on Rails,WebWorks,Bandung,Jawa Barat,Contract,Full-stack Developer,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Attention to detail,Python,TechConnect,Jakarta,Jakarta Raya,Part-time,Data Engineer,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Communication skills,Microsoft Office,Innovative Solutions,Jakarta,Jakarta Raya,Full-time,Administrative Assistant,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Leadership,JavaScript,ByteTech,Surabaya,Jawa Timur,Part-time,Web Developer,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Time management,HTML,DesignSolutions,Medan,Sumatera Utara,Full-time,Graphic Designer,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Analytical skills,Python,TechLab,Semarang,Jawa Tengah,Contract,Data Scientist,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Problem-solving,UI/UX design,CodeCraft,Yogyakarta,Yogyakarta,Full-time,UX Designer,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Collaboration,SQL,DataBytes,Surabaya,Jawa Timur,Full-time,Data Analyst,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Critical thinking,PHP,CodingTech,Bandung,Jawa Barat,Contract,Full-stack Developer,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Attention to detail,Python,InfoTech,Jakarta,Jakarta Raya,Part-time,Data Engineer,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Communication skills,Microsoft Excel,TechCo,Jakarta,Jakarta Raya,Full-time,Administrative Assistant,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Leadership,Java,TechSolutions,Surabaya,Jawa Timur,Part-time,IT Support Specialist,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Time management,HTML,WebTech,Medan,Sumatera Utara,Full-time,Web Designer,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Analytical skills,C++,ByteBytes,Semarang,Jawa Tengah,Contract,Software Tester,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Problem-solving,JavaScript,Innovate Systems,Yogyakarta,Yogyakarta,Full-time,UX Designer,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Collaboration,SQL,TechSolutions,Surabaya,Jawa Timur,Full-time,Data Scientist,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Critical thinking,Ruby on Rails,InfoLab,Bandung,Jawa Barat,Contract,Full-stack Developer,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Attention to detail,Python,ByteTech,Jakarta,Jakarta Raya,Part-time,Data Engineer,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Communication skills,Microsoft Excel,Innovation Hub,Jakarta,Jakarta Raya,Full-time,Administrative Assistant,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Time management,HTML,WebWorks,Medan,Sumatera Utara,Full-time,Web Designer,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Critical thinking,Ruby on Rails,WebCraft,Bandung,Jawa Barat,Contract,Full-stack Developer,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Analytical skills,C++,ByteBytes,Semarang,Jawa Tengah,Part-time,Contract,1,0,0,0,0,0,0,0,0
+Hearing Impairment,Leadership,Java,Tech Solutions,Surabaya,Jawa Timur,Part-time,IT Support Specialist,1,0,0,0,0,0,0,0,0
+Visual Impairment,Leadership,Java,Acme Technologies,Surabaya,Jawa Timur,Part-time,IT Support Specialist,0,1,0,0,0,0,0,0,0
+Visual Impairment,Time management,HTML,Global Ventures,Medan,Sumatera Utara,Full-time,Web Designer,0,1,0,0,0,0,0,0,0
+Visual Impairment,Analytical skills,C++,Innovate Systems,Semarang,Jawa Tengah,Contract,Software Tester,0,1,0,0,0,0,0,0,0
+Visual Impairment,Collaboration,SQL,CyberTech,Surabaya,Jawa Timur,Full-time,Data Scientist,0,1,0,0,0,0,0,0,0
+Visual Impairment,Critical thinking,Ruby on Rails,CodeCraft,Bandung,Jawa Barat,Contract,Full-stack Developer,0,1,0,0,0,0,0,0,0
+Visual Impairment,Attention to detail,Python,TechGenius,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,1,0,0,0,0,0,0,0
+Visual Impairment,Leadership,JavaScript,InfoTech,Surabaya,Jawa Timur,Part-time,Web Developer,0,1,0,0,0,0,0,0,0
+Visual Impairment,Time management,HTML,Design Co.,Medan,Sumatera Utara,Full-time,Graphic Designer,0,1,0,0,0,0,0,0,0
+Visual Impairment,Analytical skills,Python,DataTech,Semarang,Jawa Tengah,Contract,Data Scientist,0,1,0,0,0,0,0,0,0
+Visual Impairment,Collaboration,SQL,TechWizards,Surabaya,Jawa Timur,Full-time,Data Analyst,0,1,0,0,0,0,0,0,0
+Visual Impairment,Critical thinking,PHP,Coding Solutions,Bandung,Jawa Barat,Contract,Full-stack Developer,0,1,0,0,0,0,0,0,0
+Visual Impairment,Attention to detail,Python,InfoLab,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,1,0,0,0,0,0,0,0
+Visual Impairment,Leadership,Java,ByteTech,Surabaya,Jawa Timur,Part-time,IT Support Specialist,0,1,0,0,0,0,0,0,0
+Visual Impairment,Time management,HTML,Innovative Solutions,Medan,Sumatera Utara,Full-time,Web Designer,0,1,0,0,0,0,0,0,0
+Visual Impairment,Analytical skills,C++,DataGenius,Semarang,Jawa Tengah,Contract,Software Tester,0,1,0,0,0,0,0,0,0
+Visual Impairment,Collaboration,SQL,TechGenie,Surabaya,Jawa Timur,Full-time,Data Scientist,0,1,0,0,0,0,0,0,0
+Visual Impairment,Critical thinking,Ruby on Rails,WebWorks,Bandung,Jawa Barat,Contract,Full-stack Developer,0,1,0,0,0,0,0,0,0
+Visual Impairment,Attention to detail,Python,TechConnect,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,1,0,0,0,0,0,0,0
+Visual Impairment,Leadership,JavaScript,ByteTech,Surabaya,Jawa Timur,Part-time,Web Developer,0,1,0,0,0,0,0,0,0
+Visual Impairment,Time management,HTML,DesignSolutions,Medan,Sumatera Utara,Full-time,Graphic Designer,0,1,0,0,0,0,0,0,0
+Visual Impairment,Analytical skills,Python,TechLab,Semarang,Jawa Tengah,Contract,Data Scientist,0,1,0,0,0,0,0,0,0
+Visual Impairment,Collaboration,SQL,DataBytes,Surabaya,Jawa Timur,Full-time,Data Analyst,0,1,0,0,0,0,0,0,0
+Visual Impairment,Critical thinking,PHP,CodingTech,Bandung,Jawa Barat,Contract,Full-stack Developer,0,1,0,0,0,0,0,0,0
+Visual Impairment,Attention to detail,Python,InfoTech,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,1,0,0,0,0,0,0,0
+Visual Impairment,Leadership,Java,TechSolutions,Surabaya,Jawa Timur,Part-time,IT Support Specialist,0,1,0,0,0,0,0,0,0
+Visual Impairment,Time management,HTML,WebTech,Medan,Sumatera Utara,Full-time,Web Designer,0,1,0,0,0,0,0,0,0
+Visual Impairment,Analytical skills,C++,ByteBytes,Semarang,Jawa Tengah,Contract,Software Tester,0,1,0,0,0,0,0,0,0
+Visual Impairment,Collaboration,SQL,TechSolutions,Surabaya,Jawa Timur,Full-time,Data Scientist,0,1,0,0,0,0,0,0,0
+Visual Impairment,Critical thinking,Ruby on Rails,InfoLab,Bandung,Jawa Barat,Contract,Full-stack Developer,0,1,0,0,0,0,0,0,0
+Visual Impairment,Attention to detail,Python,ByteTech,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,1,0,0,0,0,0,0,0
+Visual Impairment,Time management,HTML,WebWorks,Medan,Sumatera Utara,Full-time,Web Designer,0,1,0,0,0,0,0,0,0
+Visual Impairment,Critical thinking,Ruby on Rails,WebCraft,Bandung,Jawa Barat,Contract,Full-stack Developer,0,1,0,0,0,0,0,0,0
+Visual Impairment,Analytical skills,C++,ByteBytes,Semarang,Jawa Tengah,Contract,Contract,0,1,0,0,0,0,0,0,0
+Visual Impairment,Leadership,Java,Tech Solutions,Surabaya,Jawa Timur,Part-time,IT Support Specialist,0,1,0,0,0,0,0,0,0
+Physical Disability,Time management,HTML,Global Ventures,Medan,Sumatera Utara,Full-time,Web Designer,0,0,1,0,0,0,0,0,0
+Physical Disability,Analytical skills,C++,Innovate Systems,Semarang,Jawa Tengah,Contract,Software Tester,0,0,1,0,0,0,0,0,0
+Physical Disability,Critical thinking,Ruby on Rails,CodeCraft,Bandung,Jawa Barat,Contract,Full-stack Developer,0,0,1,0,0,0,0,0,0
+Physical Disability,Attention to detail,Python,TechGenius,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,0,1,0,0,0,0,0,0
+Physical Disability,Time management,HTML,Design Co.,Medan,Sumatera Utara,Full-time,Graphic Designer,0,0,1,0,0,0,0,0,0
+Physical Disability,Analytical skills,Python,DataTech,Semarang,Jawa Tengah,Contract,Data Scientist,0,0,1,0,0,0,0,0,0
+Physical Disability,Critical thinking,PHP,Coding Solutions,Bandung,Jawa Barat,Contract,Full-stack Developer,0,0,1,0,0,0,0,0,0
+Physical Disability,Attention to detail,Python,InfoLab,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,0,1,0,0,0,0,0,0
+Physical Disability,Time management,HTML,Innovative Solutions,Medan,Sumatera Utara,Full-time,Web Designer,0,0,1,0,0,0,0,0,0
+Physical Disability,Analytical skills,C++,DataGenius,Semarang,Jawa Tengah,Contract,Software Tester,0,0,1,0,0,0,0,0,0
+Physical Disability,Critical thinking,Ruby on Rails,WebWorks,Bandung,Jawa Barat,Contract,Full-stack Developer,0,0,1,0,0,0,0,0,0
+Physical Disability,Attention to detail,Python,TechConnect,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,0,1,0,0,0,0,0,0
+Physical Disability,Time management,HTML,DesignSolutions,Medan,Sumatera Utara,Full-time,Graphic Designer,0,0,1,0,0,0,0,0,0
+Physical Disability,Analytical skills,Python,TechLab,Semarang,Jawa Tengah,Contract,Data Scientist,0,0,1,0,0,0,0,0,0
+Physical Disability,Critical thinking,PHP,CodingTech,Bandung,Jawa Barat,Contract,Full-stack Developer,0,0,1,0,0,0,0,0,0
+Physical Disability,Attention to detail,Python,InfoTech,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,0,1,0,0,0,0,0,0
+Physical Disability,Time management,HTML,WebTech,Medan,Sumatera Utara,Full-time,Web Designer,0,0,1,0,0,0,0,0,0
+Physical Disability,Analytical skills,C++,ByteBytes,Semarang,Jawa Tengah,Contract,Software Tester,0,0,1,0,0,0,0,0,0
+Physical Disability,Critical thinking,Ruby on Rails,InfoLab,Bandung,Jawa Barat,Contract,Full-stack Developer,0,0,1,0,0,0,0,0,0
+Physical Disability,Attention to detail,Python,ByteTech,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,0,1,0,0,0,0,0,0
+Physical Disability,Time management,HTML,WebWorks,Medan,Sumatera Utara,Full-time,Web Designer,0,0,1,0,0,0,0,0,0
+Physical Disability,Critical thinking,Ruby on Rails,WebCraft,Bandung,Jawa Barat,Contract,Full-stack Developer,0,0,1,0,0,0,0,0,0
+Physical Disability,Analytical skills,C++,ByteBytes,Semarang,Jawa Tengah,Part-time,Contract,0,0,1,0,0,0,0,0,0
+Learning Disability,Analytical skills,C++,Innovate Systems,Semarang,Jawa Tengah,Contract,Software Tester,0,0,0,0,0,0,0,0,1
+Learning Disability,Attention to detail,Python,TechGenius,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,0,0,0,0,0,0,0,1
+Learning Disability,Analytical skills,Python,DataTech,Semarang,Jawa Tengah,Contract,Data Scientist,0,0,0,0,0,0,0,0,1
+Learning Disability,Attention to detail,Python,InfoLab,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,0,0,0,0,0,0,0,1
+Learning Disability,Analytical skills,C++,DataGenius,Semarang,Jawa Tengah,Contract,Software Tester,0,0,0,0,0,0,0,0,1
+Learning Disability,Attention to detail,Python,TechConnect,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,0,0,0,0,0,0,0,1
+Learning Disability,Analytical skills,Python,TechLab,Semarang,Jawa Tengah,Contract,Data Scientist,0,0,0,0,0,0,0,0,1
+Learning Disability,Attention to detail,Python,InfoTech,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,0,0,0,0,0,0,0,1
+Learning Disability,Analytical skills,C++,ByteBytes,Semarang,Jawa Tengah,Contract,Software Tester,0,0,0,0,0,0,0,0,1
+Learning Disability,Attention to detail,Python,ByteTech,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,0,0,0,0,0,0,0,1
+Learning Disability,Analytical skills,C++,ByteBytes,Semarang,,Jawa Tengah,Contract,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Communication skills,Microsoft Excel,ABC Corporation,Jakarta,Jakarta Raya,Full-time,Data Analyst,0,0,0,0,0,0,0,1,0
+Cognitive Disability,Teamwork,Python,XYZ Solutions,Bandung,Jawa Barat,Contract,Software Developer,0,0,0,0,0,0,0,1,0
+Cognitive Disability,Leadership,Java,Acme Technologies,Surabaya,Jawa Timur,Part-time,IT Support Specialist,0,0,0,0,0,0,0,1,0
+Cognitive Disability,Time management,HTML,Global Ventures,Medan,Sumatera Utara,Full-time,Web Designer,0,0,0,0,0,0,0,1,0
+Cognitive Disability,Problem-solving,JavaScript,ByteBytes,Yogyakarta,Yogyakarta,Full-time,UX Designer,0,0,0,0,0,0,0,1,0
+Cognitive Disability,Adaptability,PHP,Data Solutions,Bali,Bali,Part-time,Software Engineer,0,0,0,0,0,0,0,1,0
+Cognitive Disability,Collaboration,SQL,CyberTech,Surabaya,Jawa Timur,Full-time,Data Scientist,0,0,0,0,0,0,0,1,0
+Cognitive Disability,Critical thinking,Ruby on Rails,CodeCraft,Bandung,Jawa Barat,Contract,Full-stack Developer,0,0,0,0,0,0,0,1,0
+Cognitive Disability,Communication skills,Microsoft Office,Innovation Hub,Jakarta,Jakarta Raya,Full-time,Administrative Assistant,0,0,0,0,0,0,0,1,0
+Cognitive Disability,Teamwork,Java,TechSolutions,Bandung,Jawa Barat,Contract,Software Developer,0,0,0,0,0,0,0,1,0
+Cognitive Disability,Leadership,JavaScript,InfoTech,Surabaya,Jawa Timur,Part-time,Web Developer,0,0,0,0,0,0,0,1,0
+Cognitive Disability,Time management,HTML,Design Co.,Medan,Sumatera Utara,Full-time,Graphic Designer,0,0,0,0,0,0,0,1,0
+Cognitive Disability,Problem-solving,UI/UX design,WebCraft,Yogyakarta,Yogyakarta,Full-time,UX Designer,0,0,0,0,0,0,0,1,0
+Cognitive Disability,Adaptability,Java,AppSolutions,Bali,Bali,Part-time,Software Engineer,0,0,0,0,0,0,0,1,0
+Cognitive Disability,Collaboration,SQL,TechWizards,Surabaya,Jawa Timur,Full-time,Data Analyst,0,0,0,0,0,0,0,1,0
+Cognitive Disability,Critical thinking,PHP,Coding Solutions,Bandung,Jawa Barat,Contract,Full-stack Developer,0,0,0,0,0,0,0,1,0
+Cognitive Disability,Communication skills,Microsoft Excel,TechHub,Jakarta,Jakarta Raya,Full-time,Administrative Assistant,0,0,0,0,0,0,0,1,0
+Cognitive Disability,Teamwork,Python,CodeByte,Bandung,Jawa Barat,Contract,Software Developer,0,0,0,0,0,0,0,1,0
+Cognitive Disability,Leadership,Java,ByteTech,Surabaya,Jawa Timur,Part-time,IT Support Specialist,0,0,0,0,0,0,0,1,0
+Cognitive Disability,Time management,HTML,Innovative Solutions,Medan,Sumatera Utara,Full-time,Web Designer,0,0,0,0,0,0,0,1,0
+Cognitive Disability,Problem-solving,JavaScript,TechBytes,Yogyakarta,Yogyakarta,Full-time,UX Designer,0,0,0,0,0,0,0,1,0
+Cognitive Disability,Adaptability,PHP,InfoSolutions,Bali,Bali,Part-time,Software Engineer,0,0,0,0,0,0,0,1,0
+Cognitive Disability,Collaboration,SQL,TechGenie,Surabaya,Jawa Timur,Full-time,Data Scientist,0,0,0,0,0,0,0,1,0
+Cognitive Disability,Critical thinking,Ruby on Rails,WebWorks,Bandung,Jawa Barat,Contract,Full-stack Developer,0,0,0,0,0,0,0,1,0
+Cognitive Disability,Communication skills,Microsoft Office,Innovative Solutions,Jakarta,Jakarta Raya,Full-time,Administrative Assistant,0,0,0,0,0,0,0,1,0
+Cognitive Disability,Teamwork,Java,CodingSolutions,Bandung,Jawa Barat,Contract,Software Developer,0,0,0,0,0,0,0,1,0
+Cognitive Disability,Leadership,JavaScript,ByteTech,Surabaya,Jawa Timur,Part-time,Web Developer,0,0,0,0,0,0,0,1,0
+Cognitive Disability,Time management,HTML,DesignSolutions,Medan,Sumatera Utara,Full-time,Graphic Designer,0,0,0,0,0,0,0,1,0
+Cognitive Disability,Problem-solving,UI/UX design,CodeCraft,Yogyakarta,Yogyakarta,Full-time,UX Designer,0,0,0,0,0,0,0,1,0
+Cognitive Disability,Adaptability,Java,TechSolutions,Bali,Bali,Part-time,Software Engineer,0,0,0,0,0,0,0,1,0
+Cognitive Disability,Collaboration,SQL,DataBytes,Surabaya,Jawa Timur,Full-time,Data Analyst,0,0,0,0,0,0,0,1,0
+Cognitive Disability,Critical thinking,PHP,CodingTech,Bandung,Jawa Barat,Contract,Full-stack Developer,0,0,0,0,0,0,0,1,0
+Cognitive Disability,Communication skills,Microsoft Excel,TechCo,Jakarta,Jakarta Raya,Full-time,Administrative Assistant,0,0,0,0,0,0,0,1,0
+Cognitive Disability,Teamwork,Python,DataCraft,Bandung,Jawa Barat,Contract,Software Developer,0,0,0,0,0,0,0,1,0
+Cognitive Disability,Leadership,Java,TechSolutions,Surabaya,Jawa Timur,Part-time,IT Support Specialist,0,0,0,0,0,0,0,1,0
+Cognitive Disability,Time management,HTML,WebTech,Medan,Sumatera Utara,Full-time,Web Designer,0,0,0,0,0,0,0,1,0
+Cognitive Disability,Problem-solving,JavaScript,Innovate Systems,Yogyakarta,Yogyakarta,Full-time,UX Designer,0,0,0,0,0,0,0,1,0
+Cognitive Disability,Adaptability,PHP,CodeGenius,Bali,Bali,Part-time,Software Engineer,0,0,0,0,0,0,0,1,0
+Cognitive Disability,Collaboration,SQL,TechSolutions,Surabaya,Jawa Timur,Full-time,Data Scientist,0,0,0,0,0,0,0,1,0
+Cognitive Disability,Critical thinking,Ruby on Rails,InfoLab,Bandung,Jawa Barat,Contract,Full-stack Developer,0,0,0,0,0,0,0,1,0
+Cognitive Disability,Communication skills,Microsoft Excel,Innovation Hub,Jakarta,Jakarta Raya,Full-time,Administrative Assistant,0,0,0,0,0,0,0,1,0
+Cognitive Disability,Time management,HTML,WebWorks,Medan,Sumatera Utara,Full-time,Web Designer,0,0,0,0,0,0,0,1,0
+Cognitive Disability,Critical thinking,Ruby on Rails,WebCraft,Bandung,Jawa Barat,Contract,Full-stack Developer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Microsoft Excel,Communication skills,ABC Corporation,Jakarta,Jakarta Raya,Full-time,Data Analyst,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Python,Teamwork,XYZ Solutions,Bandung,Jawa Barat,Contract,Software Developer,1,0,0,0,0,0,0,0,0
+Physical Disability,Java,Leadership,Acme Technologies,Surabaya,Jawa Timur,Part-time,IT Support Specialist,0,0,1,0,0,0,0,0,0
+Learning Disability,HTML,Time management,Global Ventures,Medan,Sumatera Utara,Full-time,Web Designer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,C++,Analytical skills,Innovate Systems,Semarang,Jawa Tengah,Contract,Software Tester,0,0,0,0,0,0,0,1,0
+Visual Impairment,JavaScript,Problem-solving,ByteBytes,Yogyakarta,Yogyakarta,Full-time,UX Designer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,PHP,Adaptability,Data Solutions,Bali,Bali,Part-time,Software Engineer,1,0,0,0,0,0,0,0,0
+Physical Disability,SQL,Collaboration,CyberTech,Surabaya,Jawa Timur,Full-time,Data Scientist,0,0,1,0,0,0,0,0,0
+Learning Disability,Ruby on Rails,Critical Thinking,CodeCraft,Bandung,Jawa Barat,Contract,Full-stack Developer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Python,Attention to detail,TechGenius,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Microsoft Excel,Communication skills,Innovation Hub,Jakarta,Jakarta Raya,Full-time,Administrative Assistant,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Java,Teamwork,TechSolutions,Bandung,Jawa Barat,Contract,Software Developer,1,0,0,0,0,0,0,0,0
+Physical Disability,JavaScript,Leadership,InfoTech,Surabaya,Jawa Timur,Part-time,Web Developer,0,0,1,0,0,0,0,0,0
+Learning Disability,HTML,Time management,Design Co.,Medan,Sumatera Utara,Full-time,Graphic Designer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Python,Analytical skills,DataTech,Semarang,Jawa Tengah,Contract,Data Scientist,0,0,0,0,0,0,0,1,0
+Visual Impairment,UI/UX Design,Problem-solving,WebCraft,Yogyakarta,Yogyakarta,Full-time,UX Designer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Java,Adaptability,AppSolutions,Bali,Bali,Part-time,Software Engineer,1,0,0,0,0,0,0,0,0
+Physical Disability,SQL,Collaboration,TechWizards,Surabaya,Jawa Timur,Full-time,Data Analyst,0,0,1,0,0,0,0,0,0
+Learning Disability,PHP,Critical thinking,Coding Solutions,Bandung,Jawa Barat,Contract,Full-stack Developer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Python,Attention to detail,InfoLab,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Microsoft Excel,Communication skills,TechHub,Jakarta,Jakarta Raya,Full-time,Administrative Assistant,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Python,Teamwork,CodeByte,Bandung,Jawa Barat,Contract,Software Developer,1,0,0,0,0,0,0,0,0
+Physical Disability,Java,Leadership,ByteTech,Surabaya,Jawa Timur,Part-time,IT Support Specialist,0,0,1,0,0,0,0,0,0
+Learning Disability,HTML,Time management,Innovative Solutions,Medan,Sumatera Utara,Full-time,Web Designer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,C++,Analytical skills,DataGenius,Semarang,Jawa Tengah,Contract,Software Tester,0,0,0,0,0,0,0,1,0
+Visual Impairment,JavaScript,Problem-solving,TechBytes,Yogyakarta,Yogyakarta,Full-time,UX Designer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,PHP,Adaptability,InfoSolutions,Bali,Bali,Part-time,Software Engineer,1,0,0,0,0,0,0,0,0
+Physical Disability,SQL,Collaboration,TechGenie,Surabaya,Jawa Timur,Full-time,Data Scientist,0,0,1,0,0,0,0,0,0
+Learning Disability,Ruby on Rails,Critical thinking,WebWorks,Bandung,Jawa Barat,Contract,Full-stack Developer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Python,Attention to detail,TechConnect,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Microsoft Excel,Communication skills,Innovative Solutions,Jakarta,Jakarta Raya,Full-time,Administrative Assistant,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Java,Teamwork,CodingSolutions,Bandung,Jawa Barat,Contract,Software Developer,1,0,0,0,0,0,0,0,0
+Physical Disability,JavaScript,Leadership,ByteTech,Surabaya,Jawa Timur,Part-time,Web Developer,0,0,1,0,0,0,0,0,0
+Learning Disability,HTML,Time management,DesignSolutions,Medan,Sumatera Utara,Full-time,Graphic Designer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Python,Analytical skills,TechLab,Semarang,Jawa Tengah,Contract,Data Scientist,0,0,0,0,0,0,0,1,0
+Visual Impairment,UI/UX Design,Problem-solving,CodeCraft,Yogyakarta,Yogyakarta,Full-time,UX Designer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Java,Adaptability,TechSolutions,Bali,Bali,Part-time,Software Engineer,1,0,0,0,0,0,0,0,0
+Physical Disability,SQL,Collaboration,DataBytes,Surabaya,Jawa Timur,Full-time,Data Analyst,0,0,1,0,0,0,0,0,0
+Learning Disability,PHP,Critical thinking,CodingTech,Bandung,Jawa Barat,Contract,Full-stack Developer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Python,Attention to detail,InfoTech,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Microsoft Excel,Communication skills,TechCo,Jakarta,Jakarta Raya,Full-time,Administrative Assistant,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Python,Teamwork,DataCraft,Bandung,Jawa Barat,Contract,Software Developer,1,0,0,0,0,0,0,0,0
+Physical Disability,Java,Leadership,TechSolutions,Surabaya,Jawa Timur,Part-time,IT Support Specialist,0,0,1,0,0,0,0,0,0
+Learning Disability,HTML,Time management,WebTech,Medan,Sumatera Utara,Full-time,Web Designer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,C++,Analytical skills,ByteBytes,Semarang,Jawa Tengah,Contract,Software Tester,0,0,0,0,0,0,0,1,0
+Visual Impairment,JavaScript,Problem-solving,Innovate Systems,Yogyakarta,Yogyakarta,Full-time,UX Designer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,PHP,Adaptability,CodeGenius,Bali,Bali,Part-time,Software Engineer,1,0,0,0,0,0,0,0,0
+Physical Disability,SQL,Collaboration,TechSolutions,Surabaya,Jawa Timur,Full-time,Data Scientist,0,0,1,0,0,0,0,0,0
+Learning Disability,Ruby on Rails,Critical thinking,InfoLab,Bandung,Jawa Barat,Contract,Full-stack Developer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Python,Attention to detail,ByteTech,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,0,0,0,0,0,0,1,0
+Learning Disability,HTML,Time management,WebWorks,Medan,Sumatera Utara,Full-time,Web Designer,0,0,0,0,0,0,0,0,1
+Learning Disability,Ruby on Rails,Critical thinking,WebCraft,Bandung,Jawa Barat,Contract,Full-stack Developer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,C++,Analytical skills,ByteBytes,Semarang,Jawa Tengah,Contract,Software Developer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Excel,ABC Corporation,Jakarta,Jakarta Raya,Full-time,Software Developer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Teamwork,Python,XYZ Solutions,Bandung,Jawa Barat,Contract,Software Engineer,1,0,0,0,0,0,0,0,0
+Physical Disability,Leadership,Java,Acme Technologies,Surabaya,Jawa Timur,Part-time,Software Developer,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,Global Ventures,Medan,Sumatera Utara,Full-time,Software Developer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,Innovate Systems,Semarang,Jawa Tengah,Contract,Software Developer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Problem-solving,JavaScript,ByteBytes,Yogyakarta,Yogyakarta,Full-time,Software Developer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,PHP,Data Solutions,Bali,Bali,Part-time,Software Developer,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,CyberTech,Surabaya,Jawa Timur,Full-time,Software Developer,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,Ruby on Rails,CodeCraft,Bandung,Jawa Barat,Contract,Software Developer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,TechGenius,Jakarta,Jakarta Raya,Part-time,Software Developer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Office,Innovation Hub,Jakarta,Jakarta Raya,Full-time,Software Developer,0,1,0,0,0,0,0,0,0
+Physical Disability,Leadership,JavaScript,InfoTech,Surabaya,Jawa Timur,Part-time,Software Developer,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,Design Co.,Medan,Sumatera Utara,Full-time,Software Developer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,Python,DataTech,Semarang,Jawa Tengah,Contract,Software Developer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Problem-solving,UI/UX design,WebCraft,Yogyakarta,Yogyakarta,Full-time,Software Developer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,Java,AppSolutions,Bali,Bali,Part-time,Software Developer,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,TechWizards,Surabaya,Jawa Timur,Full-time,Software Developer,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,PHP,Coding Solutions,Bandung,Jawa Barat,Contract,Software Developer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,InfoLab,Jakarta,Jakarta Raya,Part-time,Software Developer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Excel,TechHub,Jakarta,Jakarta Raya,Full-time,Software Developer,0,1,0,0,0,0,0,0,0
+Physical Disability,Leadership,Java,ByteTech,Surabaya,Jawa Timur,Part-time,Software Developer,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,Innovative Solutions,Medan,Sumatera Utara,Full-time,Software Developer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,DataGenius,Semarang,Jawa Tengah,Contract,Software Developer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Problem-solving,JavaScript,TechBytes,Yogyakarta,Yogyakarta,Full-time,Software Developer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,PHP,InfoSolutions,Bali,Bali,Part-time,Software Developer,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,TechGenie,Surabaya,Jawa Timur,Full-time,Software Developer,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,Ruby on Rails,WebWorks,Bandung,Jawa Barat,Contract,Software Developer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,TechConnect,Jakarta,Jakarta Raya,Part-time,Software Developer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Office,Innovative Solutions,Jakarta,Jakarta Raya,Full-time,Software Developer,0,1,0,0,0,0,0,0,0
+Physical Disability,Leadership,JavaScript,ByteTech,Surabaya,Jawa Timur,Part-time,Software Developer,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,DesignSolutions,Medan,Sumatera Utara,Full-time,Software Developer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,Python,TechLab,Semarang,Jawa Tengah,Contract,Software Developer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Problem-solving,UI/UX design,CodeCraft,Yogyakarta,Yogyakarta,Full-time,Software Developer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,Java,TechSolutions,Bali,Bali,Part-time,Software Developer,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,DataBytes,Surabaya,Jawa Timur,Full-time,Software Developer,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,PHP,CodingTech,Bandung,Jawa Barat,Contract,Software Developer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,InfoTech,Jakarta,Jakarta Raya,Part-time,Software Developer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Excel,TechCo,Jakarta,Jakarta Raya,Full-time,Software Developer,0,1,0,0,0,0,0,0,0
+Physical Disability,Leadership,Java,TechSolutions,Surabaya,Jawa Timur,Part-time,Software Developer,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,WebTech,Medan,Sumatera Utara,Full-time,Software Developer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,ByteBytes,Semarang,Jawa Tengah,Contract,Software Developer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Problem-solving,JavaScript,Innovate Systems,Yogyakarta,Yogyakarta,Full-time,Software Developer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,PHP,CodeGenius,Bali,Bali,Part-time,Software Developer,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,TechSolutions,Surabaya,Jawa Timur,Full-time,Software Developer,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,Ruby on Rails,InfoLab,Bandung,Jawa Barat,Contract,Software Developer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,ByteTech,Jakarta,Jakarta Raya,Part-time,Software Developer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Excel,Innovation Hub,Jakarta,Jakarta Raya,Full-time,Software Developer,0,1,0,0,0,0,0,0,0
+Learning Disability,Time management,HTML,WebWorks,Medan,Sumatera Utara,Full-time,Software Developer,0,0,0,0,0,0,0,0,1
+Learning Disability,Critical thinking,Ruby on Rails,WebCraft,Bandung,Jawa Barat,Contract,Software Developer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,ByteBytes,Semarang,Jawa Tengah,Full-time,Software Developer,0,0,0,0,0,0,0,1,0
+Physical Disability,Leadership,Java,Tech Solutions,Surabaya,Jawa Timur,Part-time,Software Developer,0,0,1,0,0,0,0,0,0
+Visual Impairment,Communication skills,Microsoft Excel,ABC Corporation,Jakarta,Jakarta Raya,Full-time,Software Engineer,0,1,0,0,0,0,0,0,0
+Physical Disability,Leadership,Java,Acme Technologies,Surabaya,Jawa Timur,Part-time,Software Engineer,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,Global Ventures,Medan,Sumatera Utara,Full-time,Software Engineer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,Innovate Systems,Semarang,Jawa Tengah,Contract,Software Engineer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Problem-solving,JavaScript,ByteBytes,Yogyakarta,Yogyakarta,Full-time,Software Engineer,0,1,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,CyberTech,Surabaya,Jawa Timur,Full-time,Software Engineer,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,Ruby on Rails,CodeCraft,Bandung,Jawa Barat,Contract,Software Engineer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,TechGenius,Jakarta,Jakarta Raya,Part-time,Software Engineer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Office,Innovation Hub,Jakarta,Jakarta Raya,Full-time,Software Engineer,0,1,0,0,0,0,0,0,0
+Physical Disability,Leadership,JavaScript,InfoTech,Surabaya,Jawa Timur,Part-time,Software Engineer,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,Design Co.,Medan,Sumatera Utara,Full-time,Software Engineer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,Python,DataTech,Semarang,Jawa Tengah,Contract,Software Engineer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Problem-solving,UI/UX design,WebCraft,Yogyakarta,Yogyakarta,Full-time,Software Engineer,0,1,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,TechWizards,Surabaya,Jawa Timur,Full-time,Software Engineer,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,PHP,Coding Solutions,Bandung,Jawa Barat,Contract,Software Engineer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,InfoLab,Jakarta,Jakarta Raya,Part-time,Software Engineer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Excel,TechHub,Jakarta,Jakarta Raya,Full-time,Software Engineer,0,1,0,0,0,0,0,0,0
+Physical Disability,Leadership,Java,ByteTech,Surabaya,Jawa Timur,Part-time,Software Engineer,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,Innovative Solutions,Medan,Sumatera Utara,Full-time,Software Engineer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,DataGenius,Semarang,Jawa Tengah,Contract,Software Engineer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Problem-solving,JavaScript,TechBytes,Yogyakarta,Yogyakarta,Full-time,Software Engineer,0,1,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,TechGenie,Surabaya,Jawa Timur,Full-time,Software Engineer,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,Ruby on Rails,WebWorks,Bandung,Jawa Barat,Contract,Software Engineer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,TechConnect,Jakarta,Jakarta Raya,Part-time,Software Engineer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Office,Innovative Solutions,Jakarta,Jakarta Raya,Full-time,Software Engineer,0,1,0,0,0,0,0,0,0
+Physical Disability,Leadership,JavaScript,ByteTech,Surabaya,Jawa Timur,Part-time,Software Engineer,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,DesignSolutions,Medan,Sumatera Utara,Full-time,Software Engineer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,Python,TechLab,Semarang,Jawa Tengah,Contract,Software Engineer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Problem-solving,UI/UX design,CodeCraft,Yogyakarta,Yogyakarta,Full-time,Software Engineer,0,1,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,DataBytes,Surabaya,Jawa Timur,Full-time,Software Engineer,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,PHP,CodingTech,Bandung,Jawa Barat,Contract,Software Engineer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,InfoTech,Jakarta,Jakarta Raya,Part-time,Software Engineer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Excel,TechCo,Jakarta,Jakarta Raya,Full-time,Software Engineer,0,1,0,0,0,0,0,0,0
+Physical Disability,Leadership,Java,TechSolutions,Surabaya,Jawa Timur,Part-time,Software Engineer,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,WebTech,Medan,Sumatera Utara,Full-time,Software Engineer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,ByteBytes,Semarang,Jawa Tengah,Contract,Software Engineer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Problem-solving,JavaScript,Innovate Systems,Yogyakarta,Yogyakarta,Full-time,Software Engineer,0,1,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,TechSolutions,Surabaya,Jawa Timur,Full-time,Software Engineer,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,Ruby on Rails,InfoLab,Bandung,Jawa Barat,Contract,Software Engineer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,ByteTech,Jakarta,Jakarta Raya,Part-time,Software Engineer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Excel,Innovation Hub,Jakarta,Jakarta Raya,Full-time,Software Engineer,0,1,0,0,0,0,0,0,0
+Learning Disability,Time management,HTML,WebWorks,Medan,Sumatera Utara,Full-time,Software Engineer,0,0,0,0,0,0,0,0,1
+Learning Disability,Critical thinking,Ruby on Rails,WebCraft,Bandung,Jawa Barat,Contract,Software Engineer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,ByteBytes,Semarang,Jawa Tengah,Full-time,Software Engineer,0,0,0,0,0,0,0,1,0
+Physical Disability,Leadership,Java,Tech Solutions,Surabaya,Jawa Timur,Part-time,Software Engineer,0,0,1,0,0,0,0,0,0
+Cognitive Disability,C++,Analytical skills,ByteBytes,Semarang,Jawa Tengah,Contract,UX Designer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Excel,ABC Corporation,Jakarta,Jakarta Raya,Full-time,UX Designer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Teamwork,Python,XYZ Solutions,Bandung,Jawa Barat,Contract,UX Designer,1,0,0,0,0,0,0,0,0
+Physical Disability,Leadership,Java,Acme Technologies,Surabaya,Jawa Timur,Part-time,UX Designer,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,Global Ventures,Medan,Sumatera Utara,Full-time,UX Designer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,Innovate Systems,Semarang,Jawa Tengah,Contract,UX Designer,0,0,0,0,0,0,0,1,0
+Hearing Impairment,Adaptability,PHP,Data Solutions,Bali,Bali,Part-time,UX Designer,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,CyberTech,Surabaya,Jawa Timur,Full-time,UX Designer,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,Ruby on Rails,CodeCraft,Bandung,Jawa Barat,Contract,UX Designer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,TechGenius,Jakarta,Jakarta Raya,Part-time,UX Designer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Office,Innovation Hub,Jakarta,Jakarta Raya,Full-time,UX Designer,0,1,0,0,0,0,0,0,0
+Physical Disability,Leadership,JavaScript,InfoTech,Surabaya,Jawa Timur,Part-time,UX Designer,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,Design Co.,Medan,Sumatera Utara,Full-time,UX Designer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,Python,DataTech,Semarang,Jawa Tengah,Contract,UX Designer,0,0,0,0,0,0,0,1,0
+Hearing Impairment,Adaptability,Java,AppSolutions,Bali,Bali,Part-time,UX Designer,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,TechWizards,Surabaya,Jawa Timur,Full-time,UX Designer,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,PHP,Coding Solutions,Bandung,Jawa Barat,Contract,UX Designer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,InfoLab,Jakarta,Jakarta Raya,Part-time,UX Designer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Excel,TechHub,Jakarta,Jakarta Raya,Full-time,UX Designer,0,1,0,0,0,0,0,0,0
+Physical Disability,Leadership,Java,ByteTech,Surabaya,Jawa Timur,Part-time,UX Designer,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,Innovative Solutions,Medan,Sumatera Utara,Full-time,UX Designer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,DataGenius,Semarang,Jawa Tengah,Contract,UX Designer,0,0,0,0,0,0,0,1,0
+Hearing Impairment,Adaptability,PHP,InfoSolutions,Bali,Bali,Part-time,UX Designer,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,TechGenie,Surabaya,Jawa Timur,Full-time,UX Designer,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,Ruby on Rails,WebWorks,Bandung,Jawa Barat,Contract,UX Designer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,TechConnect,Jakarta,Jakarta Raya,Part-time,UX Designer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Office,Innovative Solutions,Jakarta,Jakarta Raya,Full-time,UX Designer,0,1,0,0,0,0,0,0,0
+Physical Disability,Leadership,JavaScript,ByteTech,Surabaya,Jawa Timur,Part-time,UX Designer,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,DesignSolutions,Medan,Sumatera Utara,Full-time,UX Designer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,Python,TechLab,Semarang,Jawa Tengah,Contract,UX Designer,0,0,0,0,0,0,0,1,0
+Hearing Impairment,Adaptability,Java,TechSolutions,Bali,Bali,Part-time,UX Designer,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,DataBytes,Surabaya,Jawa Timur,Full-time,UX Designer,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,PHP,CodingTech,Bandung,Jawa Barat,Contract,UX Designer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,InfoTech,Jakarta,Jakarta Raya,Part-time,UX Designer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Excel,TechCo,Jakarta,Jakarta Raya,Full-time,UX Designer,0,1,0,0,0,0,0,0,0
+Physical Disability,Leadership,Java,TechSolutions,Surabaya,Jawa Timur,Part-time,UX Designer,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,WebTech,Medan,Sumatera Utara,Full-time,UX Designer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,ByteBytes,Semarang,Jawa Tengah,Contract,UX Designer,0,0,0,0,0,0,0,1,0
+Hearing Impairment,Adaptability,PHP,CodeGenius,Bali,Bali,Part-time,UX Designer,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,TechSolutions,Surabaya,Jawa Timur,Full-time,UX Designer,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,Ruby on Rails,InfoLab,Bandung,Jawa Barat,Contract,UX Designer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,ByteTech,Jakarta,Jakarta Raya,Part-time,UX Designer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Excel,Innovation Hub,Jakarta,Jakarta Raya,Full-time,UX Designer,0,1,0,0,0,0,0,0,0
+Learning Disability,Time management,HTML,WebWorks,Medan,Sumatera Utara,Full-time,UX Designer,0,0,0,0,0,0,0,0,1
+Learning Disability,Critical thinking,Ruby on Rails,WebCraft,Bandung,Jawa Barat,Contract,UX Designer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,ByteBytes,Semarang,Jawa Tengah,Full-time,UX Designer,0,0,0,0,0,0,0,1,0
+Physical Disability,Leadership,Java,Tech Solutions,Surabaya,Jawa Timur,Part-time,UX Designer,0,0,1,0,0,0,0,0,0
+Cognitive Disability,C++,Analytical skills,ByteBytes,Semarang,Jawa Tengah,Contract,IT Support Specialist,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Excel,ABC Corporation,Jakarta,Jakarta Raya,Full-time,IT Support Specialist,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Teamwork,Python,XYZ Solutions,Bandung,Jawa Barat,Contract,IT Support Specialist,1,0,0,0,0,0,0,0,0
+Learning Disability,Time management,HTML,Global Ventures,Medan,Sumatera Utara,Full-time,IT Support Specialist,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,Innovate Systems,Semarang,Jawa Tengah,Contract,IT Support Specialist,0,0,0,0,0,0,0,1,0
+Hearing Impairment,Adaptability,PHP,Data Solutions,Bali,Bali,Part-time,IT Support Specialist,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,CyberTech,Surabaya,Jawa Timur,Full-time,IT Support Specialist,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,Ruby on Rails,CodeCraft,Bandung,Jawa Barat,Contract,IT Support Specialist,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,TechGenius,Jakarta,Jakarta Raya,Part-time,IT Support Specialist,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Office,Innovation Hub,Jakarta,Jakarta Raya,Full-time,IT Support Specialist,0,1,0,0,0,0,0,0,0
+Physical Disability,Leadership,JavaScript,InfoTech,Surabaya,Jawa Timur,Part-time,IT Support Specialist,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,Design Co.,Medan,Sumatera Utara,Full-time,IT Support Specialist,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,Python,DataTech,Semarang,Jawa Tengah,Contract,IT Support Specialist,0,0,0,0,0,0,0,1,0
+Hearing Impairment,Adaptability,Java,AppSolutions,Bali,Bali,Part-time,IT Support Specialist,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,TechWizards,Surabaya,Jawa Timur,Full-time,IT Support Specialist,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,PHP,Coding Solutions,Bandung,Jawa Barat,Contract,IT Support Specialist,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,InfoLab,Jakarta,Jakarta Raya,Part-time,IT Support Specialist,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Excel,TechHub,Jakarta,Jakarta Raya,Full-time,IT Support Specialist,0,1,0,0,0,0,0,0,0
+Learning Disability,Time management,HTML,Innovative Solutions,Medan,Sumatera Utara,Full-time,IT Support Specialist,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,DataGenius,Semarang,Jawa Tengah,Contract,IT Support Specialist,0,0,0,0,0,0,0,1,0
+Hearing Impairment,Adaptability,PHP,InfoSolutions,Bali,Bali,Part-time,IT Support Specialist,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,TechGenie,Surabaya,Jawa Timur,Full-time,IT Support Specialist,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,Ruby on Rails,WebWorks,Bandung,Jawa Barat,Contract,IT Support Specialist,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,TechConnect,Jakarta,Jakarta Raya,Part-time,IT Support Specialist,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Office,Innovative Solutions,Jakarta,Jakarta Raya,Full-time,IT Support Specialist,0,1,0,0,0,0,0,0,0
+Physical Disability,Leadership,JavaScript,ByteTech,Surabaya,Jawa Timur,Part-time,IT Support Specialist,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,DesignSolutions,Medan,Sumatera Utara,Full-time,IT Support Specialist,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,Python,TechLab,Semarang,Jawa Tengah,Contract,IT Support Specialist,0,0,0,0,0,0,0,1,0
+Hearing Impairment,Adaptability,Java,TechSolutions,Bali,Bali,Part-time,IT Support Specialist,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,DataBytes,Surabaya,Jawa Timur,Full-time,IT Support Specialist,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,PHP,CodingTech,Bandung,Jawa Barat,Contract,IT Support Specialist,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,InfoTech,Jakarta,Jakarta Raya,Part-time,IT Support Specialist,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Excel,TechCo,Jakarta,Jakarta Raya,Full-time,IT Support Specialist,0,1,0,0,0,0,0,0,0
+Learning Disability,Time management,HTML,WebTech,Medan,Sumatera Utara,Full-time,IT Support Specialist,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,ByteBytes,Semarang,Jawa Tengah,Contract,IT Support Specialist,0,0,0,0,0,0,0,1,0
+Hearing Impairment,Adaptability,PHP,CodeGenius,Bali,Bali,Part-time,IT Support Specialist,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,TechSolutions,Surabaya,Jawa Timur,Full-time,IT Support Specialist,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,Ruby on Rails,InfoLab,Bandung,Jawa Barat,Contract,IT Support Specialist,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,ByteTech,Jakarta,Jakarta Raya,Part-time,IT Support Specialist,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Excel,Innovation Hub,Jakarta,Jakarta Raya,Full-time,IT Support Specialist,0,1,0,0,0,0,0,0,0
+Learning Disability,Time management,HTML,WebWorks,Medan,Sumatera Utara,Full-time,IT Support Specialist,0,0,0,0,0,0,0,0,1
+Learning Disability,Critical thinking,Ruby on Rails,WebCraft,Bandung,Jawa Barat,Contract,IT Support Specialist,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,ByteBytes,Semarang,Jawa Tengah,Full-time,IT Support Specialist,0,0,0,0,0,0,0,1,0
+Cognitive Disability,C++,Analytical skills,ByteBytes,Semarang,Jawa Tengah,Contract,Data Analyst,0,0,0,0,0,0,0,1,0
+Hearing Impairment,Teamwork,Python,XYZ Solutions,Bandung,Jawa Barat,Contract,Data Analyst,1,0,0,0,0,0,0,0,0
+Learning Disability,Time management,HTML,Global Ventures,Medan,Sumatera Utara,Full-time,Data Analyst,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,Innovate Systems,Semarang,Jawa Tengah,Contract,Data Analyst,0,0,0,0,0,0,0,1,0
+Hearing Impairment,Adaptability,PHP,Data Solutions,Bali,Bali,Part-time,Data Analyst,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,CyberTech,Surabaya,Jawa Timur,Full-time,Data Analyst,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,Ruby on Rails,CodeCraft,Bandung,Jawa Barat,Contract,Data Analyst,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,TechGenius,Jakarta,Jakarta Raya,Part-time,Data Analyst,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Office,Innovation Hub,Jakarta,Jakarta Raya,Full-time,Data Analyst,0,1,0,0,0,0,0,0,0
+Physical Disability,Leadership,JavaScript,InfoTech,Surabaya,Jawa Timur,Part-time,Data Analyst,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,Design Co.,Medan,Sumatera Utara,Full-time,Data Analyst,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,Python,DataTech,Semarang,Jawa Tengah,Contract,Data Analyst,0,0,0,0,0,0,0,1,0
+Hearing Impairment,Adaptability,Java,AppSolutions,Bali,Bali,Part-time,Data Analyst,1,0,0,0,0,0,0,0,0
+Learning Disability,Critical thinking,PHP,Coding Solutions,Bandung,Jawa Barat,Contract,Data Analyst,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,InfoLab,Jakarta,Jakarta Raya,Part-time,Data Analyst,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Excel,TechHub,Jakarta,Jakarta Raya,Full-time,Data Analyst,0,1,0,0,0,0,0,0,0
+Learning Disability,Time management,HTML,Innovative Solutions,Medan,Sumatera Utara,Full-time,Data Analyst,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,DataGenius,Semarang,Jawa Tengah,Contract,Data Analyst,0,0,0,0,0,0,0,1,0
+Hearing Impairment,Adaptability,PHP,InfoSolutions,Bali,Bali,Part-time,Data Analyst,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,TechGenie,Surabaya,Jawa Timur,Full-time,Data Analyst,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,Ruby on Rails,WebWorks,Bandung,Jawa Barat,Contract,Data Analyst,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,TechConnect,Jakarta,Jakarta Raya,Part-time,Data Analyst,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Office,Innovative Solutions,Jakarta,Jakarta Raya,Full-time,Data Analyst,0,1,0,0,0,0,0,0,0
+Physical Disability,Leadership,JavaScript,ByteTech,Surabaya,Jawa Timur,Part-time,Data Analyst,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,DesignSolutions,Medan,Sumatera Utara,Full-time,Data Analyst,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,Python,TechLab,Semarang,Jawa Tengah,Contract,Data Analyst,0,0,0,0,0,0,0,1,0
+Hearing Impairment,Adaptability,Java,TechSolutions,Bali,Bali,Part-time,Data Analyst,1,0,0,0,0,0,0,0,0
+Learning Disability,Critical thinking,PHP,CodingTech,Bandung,Jawa Barat,Contract,Data Analyst,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,InfoTech,Jakarta,Jakarta Raya,Part-time,Data Analyst,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Excel,TechCo,Jakarta,Jakarta Raya,Full-time,Data Analyst,0,1,0,0,0,0,0,0,0
+Learning Disability,Time management,HTML,WebTech,Medan,Sumatera Utara,Full-time,Data Analyst,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,ByteBytes,Semarang,Jawa Tengah,Contract,Data Analyst,0,0,0,0,0,0,0,1,0
+Hearing Impairment,Adaptability,PHP,CodeGenius,Bali,Bali,Part-time,Data Analyst,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,TechSolutions,Surabaya,Jawa Timur,Full-time,Data Analyst,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,Ruby on Rails,InfoLab,Bandung,Jawa Barat,Contract,Data Analyst,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,ByteTech,Jakarta,Jakarta Raya,Part-time,Data Analyst,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Excel,Innovation Hub,Jakarta,Jakarta Raya,Full-time,Data Analyst,0,1,0,0,0,0,0,0,0
+Learning Disability,Time management,HTML,WebWorks,Medan,Sumatera Utara,Full-time,Data Analyst,0,0,0,0,0,0,0,0,1
+Learning Disability,Critical thinking,Ruby on Rails,WebCraft,Bandung,Jawa Barat,Contract,Data Analyst,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,ByteBytes,Semarang,Jawa Tengah,Full-time,Data Analyst,0,0,0,0,0,0,0,1,0
+Cognitive Disability,C++,Analytical skills,ByteBytes,Semarang,Jawa Tengah,Contract,Data Scientist,0,0,0,0,0,0,0,1,0
+Hearing Impairment,Teamwork,Python,XYZ Solutions,Bandung,Jawa Barat,Contract,Data Scientist,1,0,0,0,0,0,0,0,0
+Learning Disability,Time management,HTML,Global Ventures,Medan,Sumatera Utara,Full-time,Data Scientist,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,Innovate Systems,Semarang,Jawa Tengah,Contract,Data Scientist,0,0,0,0,0,0,0,1,0
+Hearing Impairment,Adaptability,PHP,Data Solutions,Bali,Bali,Part-time,Data Scientist,1,0,0,0,0,0,0,0,0
+Learning Disability,Critical thinking,Ruby on Rails,CodeCraft,Bandung,Jawa Barat,Contract,Data Scientist,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,TechGenius,Jakarta,Jakarta Raya,Part-time,Data Scientist,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Office,Innovation Hub,Jakarta,Jakarta Raya,Full-time,Data Scientist,0,1,0,0,0,0,0,0,0
+Physical Disability,Leadership,JavaScript,InfoTech,Surabaya,Jawa Timur,Part-time,Data Scientist,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,Design Co.,Medan,Sumatera Utara,Full-time,Data Scientist,0,0,0,0,0,0,0,0,1
+Hearing Impairment,Adaptability,Java,AppSolutions,Bali,Bali,Part-time,Data Scientist,1,0,0,0,0,0,0,0,0
+Learning Disability,Critical thinking,PHP,Coding Solutions,Bandung,Jawa Barat,Contract,Data Scientist,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,InfoLab,Jakarta,Jakarta Raya,Part-time,Data Scientist,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Excel,TechHub,Jakarta,Jakarta Raya,Full-time,Data Scientist,0,1,0,0,0,0,0,0,0
+Learning Disability,Time management,HTML,Innovative Solutions,Medan,Sumatera Utara,Full-time,Data Scientist,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,DataGenius,Semarang,Jawa Tengah,Contract,Data Scientist,0,0,0,0,0,0,0,1,0
+Hearing Impairment,Adaptability,PHP,InfoSolutions,Bali,Bali,Part-time,Data Scientist,1,0,0,0,0,0,0,0,0
+Learning Disability,Critical thinking,Ruby on Rails,WebWorks,Bandung,Jawa Barat,Contract,Data Scientist,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,TechConnect,Jakarta,Jakarta Raya,Part-time,Data Scientist,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Office,Innovative Solutions,Jakarta,Jakarta Raya,Full-time,Data Scientist,0,1,0,0,0,0,0,0,0
+Physical Disability,Leadership,JavaScript,ByteTech,Surabaya,Jawa Timur,Part-time,Data Scientist,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,DesignSolutions,Medan,Sumatera Utara,Full-time,Data Scientist,0,0,0,0,0,0,0,0,1
+Hearing Impairment,Adaptability,Java,TechSolutions,Bali,Bali,Part-time,Data Scientist,1,0,0,0,0,0,0,0,0
+Learning Disability,Critical thinking,PHP,CodingTech,Bandung,Jawa Barat,Contract,Data Scientist,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,InfoTech,Jakarta,Jakarta Raya,Part-time,Data Scientist,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Excel,TechCo,Jakarta,Jakarta Raya,Full-time,Data Scientist,0,1,0,0,0,0,0,0,0
+Learning Disability,Time management,HTML,WebTech,Medan,Sumatera Utara,Full-time,Data Scientist,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,ByteBytes,Semarang,Jawa Tengah,Contract,Data Scientist,0,0,0,0,0,0,0,1,0
+Hearing Impairment,Adaptability,PHP,CodeGenius,Bali,Bali,Part-time,Data Scientist,1,0,0,0,0,0,0,0,0
+Learning Disability,Critical thinking,Ruby on Rails,InfoLab,Bandung,Jawa Barat,Contract,Data Scientist,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,ByteTech,Jakarta,Jakarta Raya,Part-time,Data Scientist,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Excel,Innovation Hub,Jakarta,Jakarta Raya,Full-time,Data Scientist,0,1,0,0,0,0,0,0,0
+Learning Disability,Time management,HTML,WebWorks,Medan,Sumatera Utara,Full-time,Data Scientist,0,0,0,0,0,0,0,0,1
+Learning Disability,Critical thinking,Ruby on Rails,WebCraft,Bandung,Jawa Barat,Contract,Data Scientist,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,ByteBytes,Semarang,Jawa Tengah,Full-time,Data Scientist,0,0,0,0,0,0,0,1,0
+Cognitive Disability,C++,Analytical skills,ByteBytes,Semarang,Jawa Tengah,Contract,Data Engineer,0,0,0,0,0,0,0,1,0
+Hearing Impairment,Teamwork,Python,XYZ Solutions,Bandung,Jawa Barat,Contract,Data Engineer,1,0,0,0,0,0,0,0,0
+Learning Disability,Time management,HTML,Global Ventures,Medan,Sumatera Utara,Full-time,Data Engineer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,Innovate Systems,Semarang,Jawa Tengah,Contract,Data Engineer,0,0,0,0,0,0,0,1,0
+Hearing Impairment,Adaptability,PHP,Data Solutions,Bali,Bali,Part-time,Data Engineer,1,0,0,0,0,0,0,0,0
+Learning Disability,Critical thinking,Ruby on Rails,CodeCraft,Bandung,Jawa Barat,Contract,Data Engineer,0,0,0,0,0,0,0,0,1
+Visual Impairment,Communication skills,Microsoft Office,Innovation Hub,Jakarta,Jakarta Raya,Full-time,Data Engineer,0,1,0,0,0,0,0,0,0
+Physical Disability,Leadership,JavaScript,InfoTech,Surabaya,Jawa Timur,Part-time,Data Engineer,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,Design Co.,Medan,Sumatera Utara,Full-time,Data Engineer,0,0,0,0,0,0,0,0,1
+Hearing Impairment,Adaptability,Java,AppSolutions,Bali,Bali,Part-time,Data Engineer,1,0,0,0,0,0,0,0,0
+Learning Disability,Critical thinking,PHP,Coding Solutions,Bandung,Jawa Barat,Contract,Data Engineer,0,0,0,0,0,0,0,0,1
+Visual Impairment,Communication skills,Microsoft Excel,TechHub,Jakarta,Jakarta Raya,Full-time,Data Engineer,0,1,0,0,0,0,0,0,0
+Learning Disability,Time management,HTML,Innovative Solutions,Medan,Sumatera Utara,Full-time,Data Engineer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,DataGenius,Semarang,Jawa Tengah,Contract,Data Engineer,0,0,0,0,0,0,0,1,0
+Hearing Impairment,Adaptability,PHP,InfoSolutions,Bali,Bali,Part-time,Data Engineer,1,0,0,0,0,0,0,0,0
+Learning Disability,Critical thinking,Ruby on Rails,WebWorks,Bandung,Jawa Barat,Contract,Data Engineer,0,0,0,0,0,0,0,0,1
+Visual Impairment,Communication skills,Microsoft Office,Innovative Solutions,Jakarta,Jakarta Raya,Full-time,Data Engineer,0,1,0,0,0,0,0,0,0
+Physical Disability,Leadership,JavaScript,ByteTech,Surabaya,Jawa Timur,Part-time,Data Engineer,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,DesignSolutions,Medan,Sumatera Utara,Full-time,Data Engineer,0,0,0,0,0,0,0,0,1
+Hearing Impairment,Adaptability,Java,TechSolutions,Bali,Bali,Part-time,Data Engineer,1,0,0,0,0,0,0,0,0
+Learning Disability,Critical thinking,PHP,CodingTech,Bandung,Jawa Barat,Contract,Data Engineer,0,0,0,0,0,0,0,0,1
+Visual Impairment,Communication skills,Microsoft Excel,TechCo,Jakarta,Jakarta Raya,Full-time,Data Engineer,0,1,0,0,0,0,0,0,0
+Learning Disability,Time management,HTML,WebTech,Medan,Sumatera Utara,Full-time,Data Engineer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,ByteBytes,Semarang,Jawa Tengah,Contract,Data Engineer,0,0,0,0,0,0,0,1,0
+Hearing Impairment,Adaptability,PHP,CodeGenius,Bali,Bali,Part-time,Data Engineer,1,0,0,0,0,0,0,0,0
+Learning Disability,Critical thinking,Ruby on Rails,InfoLab,Bandung,Jawa Barat,Contract,Data Engineer,0,0,0,0,0,0,0,0,1
+Visual Impairment,Communication skills,Microsoft Excel,Innovation Hub,Jakarta,Jakarta Raya,Full-time,Data Engineer,0,1,0,0,0,0,0,0,0
+Learning Disability,Time management,HTML,WebWorks,Medan,Sumatera Utara,Full-time,Data Engineer,0,0,0,0,0,0,0,0,1
+Learning Disability,Critical thinking,Ruby on Rails,WebCraft,Bandung,Jawa Barat,Contract,Data Engineer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,ByteBytes,Semarang,Jawa Tengah,Full-time,Data Engineer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Excel,ABC Corporation,Jakarta,Jakarta Raya,Full-time,Full-stack Developer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Teamwork,Python,XYZ Solutions,Bandung,Jawa Barat,Contract,Full-stack Developer,1,0,0,0,0,0,0,0,0
+Physical Disability,Leadership,Java,Acme Technologies,Surabaya,Jawa Timur,Part-time,Full-stack Developer,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,Global Ventures,Medan,Sumatera Utara,Full-time,Full-stack Developer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,Innovate Systems,Semarang,Jawa Tengah,Contract,Full-stack Developer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Problem-solving,JavaScript,ByteBytes,Yogyakarta,Yogyakarta,Full-time,Full-stack Developer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,PHP,Data Solutions,Bali,Bali,Part-time,Full-stack Developer,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,CyberTech,Surabaya,Jawa Timur,Full-time,Full-stack Developer,0,0,1,0,0,0,0,0,0
+Cognitive Disability,Attention to detail,Python,TechGenius,Jakarta,Jakarta Raya,Part-time,Full-stack Developer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Office,Innovation Hub,Jakarta,Jakarta Raya,Full-time,Full-stack Developer,0,1,0,0,0,0,0,0,0
+Physical Disability,Leadership,JavaScript,InfoTech,Surabaya,Jawa Timur,Part-time,Full-stack Developer,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,Design Co.,Medan,Sumatera Utara,Full-time,Full-stack Developer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,Python,DataTech,Semarang,Jawa Tengah,Contract,Full-stack Developer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Problem-solving,UI/UX design,WebCraft,Yogyakarta,Yogyakarta,Full-time,Full-stack Developer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,Java,AppSolutions,Bali,Bali,Part-time,Full-stack Developer,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,TechWizards,Surabaya,Jawa Timur,Full-time,Full-stack Developer,0,0,1,0,0,0,0,0,0
+Cognitive Disability,Attention to detail,Python,InfoLab,Jakarta,Jakarta Raya,Part-time,Full-stack Developer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Excel,TechHub,Jakarta,Jakarta Raya,Full-time,Full-stack Developer,0,1,0,0,0,0,0,0,0
+Physical Disability,Leadership,Java,ByteTech,Surabaya,Jawa Timur,Part-time,Full-stack Developer,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,Innovative Solutions,Medan,Sumatera Utara,Full-time,Full-stack Developer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,DataGenius,Semarang,Jawa Tengah,Contract,Full-stack Developer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Problem-solving,JavaScript,TechBytes,Yogyakarta,Yogyakarta,Full-time,Full-stack Developer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,PHP,InfoSolutions,Bali,Bali,Part-time,Full-stack Developer,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,TechGenie,Surabaya,Jawa Timur,Full-time,Full-stack Developer,0,0,1,0,0,0,0,0,0
+Cognitive Disability,Attention to detail,Python,TechConnect,Jakarta,Jakarta Raya,Part-time,Full-stack Developer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Office,Innovative Solutions,Jakarta,Jakarta Raya,Full-time,Full-stack Developer,0,1,0,0,0,0,0,0,0
+Physical Disability,Leadership,JavaScript,ByteTech,Surabaya,Jawa Timur,Part-time,Full-stack Developer,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,DesignSolutions,Medan,Sumatera Utara,Full-time,Full-stack Developer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,Python,TechLab,Semarang,Jawa Tengah,Contract,Full-stack Developer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Problem-solving,UI/UX design,CodeCraft,Yogyakarta,Yogyakarta,Full-time,Full-stack Developer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,Java,TechSolutions,Bali,Bali,Part-time,Full-stack Developer,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,DataBytes,Surabaya,Jawa Timur,Full-time,Full-stack Developer,0,0,1,0,0,0,0,0,0
+Cognitive Disability,Attention to detail,Python,InfoTech,Jakarta,Jakarta Raya,Part-time,Full-stack Developer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Excel,TechCo,Jakarta,Jakarta Raya,Full-time,Full-stack Developer,0,1,0,0,0,0,0,0,0
+Physical Disability,Leadership,Java,TechSolutions,Surabaya,Jawa Timur,Part-time,Full-stack Developer,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,WebTech,Medan,Sumatera Utara,Full-time,Full-stack Developer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,ByteBytes,Semarang,Jawa Tengah,Contract,Full-stack Developer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Problem-solving,JavaScript,Innovate Systems,Yogyakarta,Yogyakarta,Full-time,Full-stack Developer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,PHP,CodeGenius,Bali,Bali,Part-time,Full-stack Developer,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,TechSolutions,Surabaya,Jawa Timur,Full-time,Full-stack Developer,0,0,1,0,0,0,0,0,0
+Cognitive Disability,Attention to detail,Python,ByteTech,Jakarta,Jakarta Raya,Part-time,Full-stack Developer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Excel,Innovation Hub,Jakarta,Jakarta Raya,Full-time,Full-stack Developer,0,1,0,0,0,0,0,0,0
+Learning Disability,Time management,HTML,WebWorks,Medan,Sumatera Utara,Full-time,Full-stack Developer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,ByteBytes,Semarang,Jawa Tengah,Full-time,Full-stack Developer,0,0,0,0,0,0,0,1,0
+Cognitive Disability,C++,Analytical skills,ByteBytes,Semarang,Jawa Tengah,Contract,Web Designer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Excel,ABC Corporation,Jakarta,Jakarta Raya,Full-time,Web Designer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Teamwork,Python,XYZ Solutions,Bandung,Jawa Barat,Contract,Web Designer,1,0,0,0,0,0,0,0,0
+Physical Disability,Leadership,Java,Acme Technologies,Surabaya,Jawa Timur,Part-time,Web Designer,0,0,1,0,0,0,0,0,0
+Cognitive Disability,Analytical skills,C++,Innovate Systems,Semarang,Jawa Tengah,Contract,Web Designer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Problem-solving,JavaScript,ByteBytes,Yogyakarta,Yogyakarta,Full-time,Web Designer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,PHP,Data Solutions,Bali,Bali,Part-time,Web Designer,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,CyberTech,Surabaya,Jawa Timur,Full-time,Web Designer,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,Ruby on Rails,CodeCraft,Bandung,Jawa Barat,Contract,Web Designer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,TechGenius,Jakarta,Jakarta Raya,Part-time,Web Designer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Office,Innovation Hub,Jakarta,Jakarta Raya,Full-time,Web Designer,0,1,0,0,0,0,0,0,0
+Physical Disability,Leadership,JavaScript,InfoTech,Surabaya,Jawa Timur,Part-time,Web Designer,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,Design Co.,Medan,Sumatera Utara,Full-time,Web Designer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,Python,DataTech,Semarang,Jawa Tengah,Contract,Web Designer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Problem-solving,UI/UX design,WebCraft,Yogyakarta,Yogyakarta,Full-time,Web Designer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,Java,AppSolutions,Bali,Bali,Part-time,Web Designer,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,TechWizards,Surabaya,Jawa Timur,Full-time,Web Designer,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,PHP,Coding Solutions,Bandung,Jawa Barat,Contract,Web Designer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,InfoLab,Jakarta,Jakarta Raya,Part-time,Web Designer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Excel,TechHub,Jakarta,Jakarta Raya,Full-time,Web Designer,0,1,0,0,0,0,0,0,0
+Physical Disability,Leadership,Java,ByteTech,Surabaya,Jawa Timur,Part-time,Web Designer,0,0,1,0,0,0,0,0,0
+Cognitive Disability,Analytical skills,C++,DataGenius,Semarang,Jawa Tengah,Contract,Web Designer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Problem-solving,JavaScript,TechBytes,Yogyakarta,Yogyakarta,Full-time,Web Designer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,PHP,InfoSolutions,Bali,Bali,Part-time,Web Designer,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,TechGenie,Surabaya,Jawa Timur,Full-time,Web Designer,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,Ruby on Rails,WebWorks,Bandung,Jawa Barat,Contract,Web Designer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,TechConnect,Jakarta,Jakarta Raya,Part-time,Web Designer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Office,Innovative Solutions,Jakarta,Jakarta Raya,Full-time,Web Designer,0,1,0,0,0,0,0,0,0
+Physical Disability,Leadership,JavaScript,ByteTech,Surabaya,Jawa Timur,Part-time,Web Designer,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,DesignSolutions,Medan,Sumatera Utara,Full-time,Web Designer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,Python,TechLab,Semarang,Jawa Tengah,Contract,Web Designer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Problem-solving,UI/UX design,CodeCraft,Yogyakarta,Yogyakarta,Full-time,Web Designer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,Java,TechSolutions,Bali,Bali,Part-time,Web Designer,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,DataBytes,Surabaya,Jawa Timur,Full-time,Web Designer,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,PHP,CodingTech,Bandung,Jawa Barat,Contract,Web Designer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,InfoTech,Jakarta,Jakarta Raya,Part-time,Web Designer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Excel,TechCo,Jakarta,Jakarta Raya,Full-time,Web Designer,0,1,0,0,0,0,0,0,0
+Physical Disability,Leadership,Java,TechSolutions,Surabaya,Jawa Timur,Part-time,Web Designer,0,0,1,0,0,0,0,0,0
+Cognitive Disability,Analytical skills,C++,ByteBytes,Semarang,Jawa Tengah,Contract,Web Designer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Problem-solving,JavaScript,Innovate Systems,Yogyakarta,Yogyakarta,Full-time,Web Designer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,PHP,CodeGenius,Bali,Bali,Part-time,Web Designer,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,TechSolutions,Surabaya,Jawa Timur,Full-time,Web Designer,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,Ruby on Rails,InfoLab,Bandung,Jawa Barat,Contract,Web Designer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,ByteTech,Jakarta,Jakarta Raya,Part-time,Web Designer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Excel,Innovation Hub,Jakarta,Jakarta Raya,Full-time,Web Designer,0,1,0,0,0,0,0,0,0
+Learning Disability,Critical thinking,Ruby on Rails,WebCraft,Bandung,Jawa Barat,Contract,Web Designer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,ByteBytes,Semarang,Jawa Tengah,Full-time,Web Designer,0,0,0,0,0,0,0,1,0
+Physical Disability,Leadership,Java,Tech Solutions,Surabaya,Jawa Timur,Part-time,Web Designer,0,0,1,0,0,0,0,0,0
+Visual Impairment,Communication skills,Microsoft Excel,ABC Corporation,Jakarta,Jakarta Raya,Full-time,Software Tester,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Teamwork,Python,XYZ Solutions,Bandung,Jawa Barat,Contract,Software Tester,1,0,0,0,0,0,0,0,0
+Physical Disability,Leadership,Java,Acme Technologies,Surabaya,Jawa Timur,Part-time,Software Tester,0,0,1,0,0,0,0,0,0
+Visual Impairment,Problem-solving,JavaScript,ByteBytes,Yogyakarta,Yogyakarta,Full-time,Software Tester,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,PHP,Data Solutions,Bali,Bali,Part-time,Software Tester,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,CyberTech,Surabaya,Jawa Timur,Full-time,Software Tester,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,Ruby on Rails,CodeCraft,Bandung,Jawa Barat,Contract,Software Tester,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,TechGenius,Jakarta,Jakarta Raya,Part-time,Software Tester,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Office,Innovation Hub,Jakarta,Jakarta Raya,Full-time,Software Tester,0,1,0,0,0,0,0,0,0
+Physical Disability,Leadership,JavaScript,InfoTech,Surabaya,Jawa Timur,Part-time,Software Tester,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,Design Co.,Medan,Sumatera Utara,Full-time,Software Tester,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,Python,DataTech,Semarang,Jawa Tengah,Contract,Software Tester,0,0,0,0,0,0,0,1,0
+Visual Impairment,Problem-solving,UI/UX design,WebCraft,Yogyakarta,Yogyakarta,Full-time,Software Tester,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,Java,AppSolutions,Bali,Bali,Part-time,Software Tester,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,TechWizards,Surabaya,Jawa Timur,Full-time,Software Tester,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,PHP,Coding Solutions,Bandung,Jawa Barat,Contract,Software Tester,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,InfoLab,Jakarta,Jakarta Raya,Part-time,Software Tester,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Excel,TechHub,Jakarta,Jakarta Raya,Full-time,Software Tester,0,1,0,0,0,0,0,0,0
+Physical Disability,Leadership,Java,ByteTech,Surabaya,Jawa Timur,Part-time,Software Tester,0,0,1,0,0,0,0,0,0
+Visual Impairment,Problem-solving,JavaScript,TechBytes,Yogyakarta,Yogyakarta,Full-time,Software Tester,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,PHP,InfoSolutions,Bali,Bali,Part-time,Software Tester,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,TechGenie,Surabaya,Jawa Timur,Full-time,Software Tester,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,Ruby on Rails,WebWorks,Bandung,Jawa Barat,Contract,Software Tester,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,TechConnect,Jakarta,Jakarta Raya,Part-time,Software Tester,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Office,Innovative Solutions,Jakarta,Jakarta Raya,Full-time,Software Tester,0,1,0,0,0,0,0,0,0
+Physical Disability,Leadership,JavaScript,ByteTech,Surabaya,Jawa Timur,Part-time,Software Tester,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,DesignSolutions,Medan,Sumatera Utara,Full-time,Software Tester,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,Python,TechLab,Semarang,Jawa Tengah,Contract,Software Tester,0,0,0,0,0,0,0,1,0
+Visual Impairment,Problem-solving,UI/UX design,CodeCraft,Yogyakarta,Yogyakarta,Full-time,Software Tester,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,Java,TechSolutions,Bali,Bali,Part-time,Software Tester,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,DataBytes,Surabaya,Jawa Timur,Full-time,Software Tester,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,PHP,CodingTech,Bandung,Jawa Barat,Contract,Software Tester,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,InfoTech,Jakarta,Jakarta Raya,Part-time,Software Tester,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Excel,TechCo,Jakarta,Jakarta Raya,Full-time,Software Tester,0,1,0,0,0,0,0,0,0
+Physical Disability,Leadership,Java,TechSolutions,Surabaya,Jawa Timur,Part-time,Software Tester,0,0,1,0,0,0,0,0,0
+Visual Impairment,Problem-solving,JavaScript,Innovate Systems,Yogyakarta,Yogyakarta,Full-time,Software Tester,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,PHP,CodeGenius,Bali,Bali,Part-time,Software Tester,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,TechSolutions,Surabaya,Jawa Timur,Full-time,Software Tester,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,Ruby on Rails,InfoLab,Bandung,Jawa Barat,Contract,Software Tester,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,ByteTech,Jakarta,Jakarta Raya,Part-time,Software Tester,0,0,0,0,0,0,0,1,0
+Visual Impairment,Communication skills,Microsoft Excel,Innovation Hub,Jakarta,Jakarta Raya,Full-time,Software Tester,0,1,0,0,0,0,0,0,0
+Learning Disability,Critical thinking,Ruby on Rails,WebCraft,Bandung,Jawa Barat,Contract,Software Tester,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,ByteBytes,Semarang,Jawa Tengah,Full-time,Software Tester,0,0,0,0,0,0,0,1,0
+Physical Disability,Leadership,Java,Tech Solutions,Surabaya,Jawa Timur,Part-time,Software Tester,0,0,1,0,0,0,0,0,0
+Visual Impairment,Communication skills,Microsoft Excel,ABC Corporation,Jakarta,Jakarta Raya,Full-time,Administrative Assistant,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Teamwork,Python,XYZ Solutions,Bandung,Jawa Barat,Contract,Administrative Assistant,1,0,0,0,0,0,0,0,0
+Physical Disability,Leadership,Java,Acme Technologies,Surabaya,Jawa Timur,Part-time,Administrative Assistant,0,0,1,0,0,0,0,0,0
+Visual Impairment,Problem-solving,JavaScript,ByteBytes,Yogyakarta,Yogyakarta,Full-time,Administrative Assistant,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,PHP,Data Solutions,Bali,Bali,Part-time,Administrative Assistant,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,CyberTech,Surabaya,Jawa Timur,Full-time,Administrative Assistant,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,Ruby on Rails,CodeCraft,Bandung,Jawa Barat,Contract,Administrative Assistant,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,TechGenius,Jakarta,Jakarta Raya,Part-time,Administrative Assistant,0,0,0,0,0,0,0,1,0
+Physical Disability,Leadership,JavaScript,InfoTech,Surabaya,Jawa Timur,Part-time,Administrative Assistant,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,Design Co.,Medan,Sumatera Utara,Full-time,Administrative Assistant,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,Python,DataTech,Semarang,Jawa Tengah,Contract,Administrative Assistant,0,0,0,0,0,0,0,1,0
+Visual Impairment,Problem-solving,UI/UX design,WebCraft,Yogyakarta,Yogyakarta,Full-time,Administrative Assistant,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,Java,AppSolutions,Bali,Bali,Part-time,Administrative Assistant,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,TechWizards,Surabaya,Jawa Timur,Full-time,Administrative Assistant,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,PHP,Coding Solutions,Bandung,Jawa Barat,Contract,Administrative Assistant,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,InfoLab,Jakarta,Jakarta Raya,Part-time,Administrative Assistant,0,0,0,0,0,0,0,1,0
+Physical Disability,Leadership,Java,ByteTech,Surabaya,Jawa Timur,Part-time,Administrative Assistant,0,0,1,0,0,0,0,0,0
+Visual Impairment,Problem-solving,JavaScript,TechBytes,Yogyakarta,Yogyakarta,Full-time,Administrative Assistant,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,PHP,InfoSolutions,Bali,Bali,Part-time,Administrative Assistant,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,TechGenie,Surabaya,Jawa Timur,Full-time,Administrative Assistant,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,Ruby on Rails,WebWorks,Bandung,Jawa Barat,Contract,Administrative Assistant,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,TechConnect,Jakarta,Jakarta Raya,Part-time,Administrative Assistant,0,0,0,0,0,0,0,1,0
+Physical Disability,Leadership,JavaScript,ByteTech,Surabaya,Jawa Timur,Part-time,Administrative Assistant,0,0,1,0,0,0,0,0,0
+Learning Disability,Time management,HTML,DesignSolutions,Medan,Sumatera Utara,Full-time,Administrative Assistant,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,Python,TechLab,Semarang,Jawa Tengah,Contract,Administrative Assistant,0,0,0,0,0,0,0,1,0
+Visual Impairment,Problem-solving,UI/UX design,CodeCraft,Yogyakarta,Yogyakarta,Full-time,Administrative Assistant,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,Java,TechSolutions,Bali,Bali,Part-time,Administrative Assistant,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,DataBytes,Surabaya,Jawa Timur,Full-time,Administrative Assistant,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,PHP,CodingTech,Bandung,Jawa Barat,Contract,Administrative Assistant,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,InfoTech,Jakarta,Jakarta Raya,Part-time,Administrative Assistant,0,0,0,0,0,0,0,1,0
+Physical Disability,Leadership,Java,TechSolutions,Surabaya,Jawa Timur,Part-time,Administrative Assistant,0,0,1,0,0,0,0,0,0
+Visual Impairment,Problem-solving,JavaScript,Innovate Systems,Yogyakarta,Yogyakarta,Full-time,Administrative Assistant,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,PHP,CodeGenius,Bali,Bali,Part-time,Administrative Assistant,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,TechSolutions,Surabaya,Jawa Timur,Full-time,Administrative Assistant,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,Ruby on Rails,InfoLab,Bandung,Jawa Barat,Contract,Administrative Assistant,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,ByteTech,Jakarta,Jakarta Raya,Part-time,Administrative Assistant,0,0,0,0,0,0,0,1,0
+Learning Disability,Critical thinking,Ruby on Rails,WebCraft,Bandung,Jawa Barat,Contract,Administrative Assistant,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,ByteBytes,Semarang,Jawa Tengah,Full-time,Administrative Assistant,0,0,0,0,0,0,0,1,0
+Physical Disability,Leadership,Java,Tech Solutions,Surabaya,Jawa Timur,Part-time,Administrative Assistant,0,0,1,0,0,0,0,0,0
+Visual Impairment,Communication skills,Microsoft Excel,ABC Corporation,Jakarta,Jakarta Raya,Full-time,Web Developer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Teamwork,Python,XYZ Solutions,Bandung,Jawa Barat,Contract,Web Developer,1,0,0,0,0,0,0,0,0
+Physical Disability,Leadership,Java,Acme Technologies,Surabaya,Jawa Timur,Part-time,Web Developer,0,0,1,0,0,0,0,0,0
+Visual Impairment,Problem-solving,JavaScript,ByteBytes,Yogyakarta,Yogyakarta,Full-time,Web Developer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,PHP,Data Solutions,Bali,Bali,Part-time,Web Developer,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,CyberTech,Surabaya,Jawa Timur,Full-time,Web Developer,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,Ruby on Rails,CodeCraft,Bandung,Jawa Barat,Contract,Web Developer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,TechGenius,Jakarta,Jakarta Raya,Part-time,Web Developer,0,0,0,0,0,0,0,1,0
+Learning Disability,Time management,HTML,Design Co.,Medan,Sumatera Utara,Full-time,Web Developer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,Python,DataTech,Semarang,Jawa Tengah,Contract,Web Developer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Problem-solving,UI/UX design,WebCraft,Yogyakarta,Yogyakarta,Full-time,Web Developer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,Java,AppSolutions,Bali,Bali,Part-time,Web Developer,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,TechWizards,Surabaya,Jawa Timur,Full-time,Web Developer,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,PHP,Coding Solutions,Bandung,Jawa Barat,Contract,Web Developer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,InfoLab,Jakarta,Jakarta Raya,Part-time,Web Developer,0,0,0,0,0,0,0,1,0
+Physical Disability,Leadership,Java,ByteTech,Surabaya,Jawa Timur,Part-time,Web Developer,0,0,1,0,0,0,0,0,0
+Visual Impairment,Problem-solving,JavaScript,TechBytes,Yogyakarta,Yogyakarta,Full-time,Web Developer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,PHP,InfoSolutions,Bali,Bali,Part-time,Web Developer,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,TechGenie,Surabaya,Jawa Timur,Full-time,Web Developer,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,Ruby on Rails,WebWorks,Bandung,Jawa Barat,Contract,Web Developer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,TechConnect,Jakarta,Jakarta Raya,Part-time,Web Developer,0,0,0,0,0,0,0,1,0
+Learning Disability,Time management,HTML,DesignSolutions,Medan,Sumatera Utara,Full-time,Web Developer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,Python,TechLab,Semarang,Jawa Tengah,Contract,Web Developer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Problem-solving,UI/UX design,CodeCraft,Yogyakarta,Yogyakarta,Full-time,Web Developer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,Java,TechSolutions,Bali,Bali,Part-time,Web Developer,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,DataBytes,Surabaya,Jawa Timur,Full-time,Web Developer,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,PHP,CodingTech,Bandung,Jawa Barat,Contract,Web Developer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,InfoTech,Jakarta,Jakarta Raya,Part-time,Web Developer,0,0,0,0,0,0,0,1,0
+Physical Disability,Leadership,Java,TechSolutions,Surabaya,Jawa Timur,Part-time,Web Developer,0,0,1,0,0,0,0,0,0
+Visual Impairment,Problem-solving,JavaScript,Innovate Systems,Yogyakarta,Yogyakarta,Full-time,Web Developer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,PHP,CodeGenius,Bali,Bali,Part-time,Web Developer,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,TechSolutions,Surabaya,Jawa Timur,Full-time,Web Developer,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,Ruby on Rails,InfoLab,Bandung,Jawa Barat,Contract,Web Developer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,ByteTech,Jakarta,Jakarta Raya,Part-time,Web Developer,0,0,0,0,0,0,0,1,0
+Learning Disability,Critical thinking,Ruby on Rails,WebCraft,Bandung,Jawa Barat,Contract,Web Developer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,ByteBytes,Semarang,Jawa Tengah,Full-time,Web Developer,0,0,0,0,0,0,0,1,0
+Physical Disability,Leadership,Java,Tech Solutions,Surabaya,Jawa Timur,Part-time,Web Developer,0,0,1,0,0,0,0,0,0
+Visual Impairment,Communication skills,Microsoft Excel,ABC Corporation,Jakarta,Jakarta Raya,Full-time,Graphic Designer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Teamwork,Python,XYZ Solutions,Bandung,Jawa Barat,Contract,Graphic Designer,1,0,0,0,0,0,0,0,0
+Physical Disability,Leadership,Java,Acme Technologies,Surabaya,Jawa Timur,Part-time,Graphic Designer,0,0,1,0,0,0,0,0,0
+Visual Impairment,Problem-solving,JavaScript,ByteBytes,Yogyakarta,Yogyakarta,Full-time,Graphic Designer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,PHP,Data Solutions,Bali,Bali,Part-time,Graphic Designer,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,CyberTech,Surabaya,Jawa Timur,Full-time,Graphic Designer,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,Ruby on Rails,CodeCraft,Bandung,Jawa Barat,Contract,Graphic Designer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,TechGenius,Jakarta,Jakarta Raya,Part-time,Graphic Designer,0,0,0,0,0,0,0,1,0
+Cognitive Disability,Analytical skills,Python,DataTech,Semarang,Jawa Tengah,Contract,Graphic Designer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Problem-solving,UI/UX design,WebCraft,Yogyakarta,Yogyakarta,Full-time,Graphic Designer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,Java,AppSolutions,Bali,Bali,Part-time,Graphic Designer,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,TechWizards,Surabaya,Jawa Timur,Full-time,Graphic Designer,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,PHP,Coding Solutions,Bandung,Jawa Barat,Contract,Graphic Designer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,InfoLab,Jakarta,Jakarta Raya,Part-time,Graphic Designer,0,0,0,0,0,0,0,1,0
+Physical Disability,Leadership,Java,ByteTech,Surabaya,Jawa Timur,Part-time,Graphic Designer,0,0,1,0,0,0,0,0,0
+Visual Impairment,Problem-solving,JavaScript,TechBytes,Yogyakarta,Yogyakarta,Full-time,Graphic Designer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,PHP,InfoSolutions,Bali,Bali,Part-time,Graphic Designer,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,TechGenie,Surabaya,Jawa Timur,Full-time,Graphic Designer,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,Ruby on Rails,WebWorks,Bandung,Jawa Barat,Contract,Graphic Designer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,TechConnect,Jakarta,Jakarta Raya,Part-time,Graphic Designer,0,0,0,0,0,0,0,1,0
+Cognitive Disability,Analytical skills,Python,TechLab,Semarang,Jawa Tengah,Contract,Graphic Designer,0,0,0,0,0,0,0,1,0
+Visual Impairment,Problem-solving,UI/UX design,CodeCraft,Yogyakarta,Yogyakarta,Full-time,Graphic Designer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,Java,TechSolutions,Bali,Bali,Part-time,Graphic Designer,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,DataBytes,Surabaya,Jawa Timur,Full-time,Graphic Designer,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,PHP,CodingTech,Bandung,Jawa Barat,Contract,Graphic Designer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,InfoTech,Jakarta,Jakarta Raya,Part-time,Graphic Designer,0,0,0,0,0,0,0,1,0
+Physical Disability,Leadership,Java,TechSolutions,Surabaya,Jawa Timur,Part-time,Graphic Designer,0,0,1,0,0,0,0,0,0
+Visual Impairment,Problem-solving,JavaScript,Innovate Systems,Yogyakarta,Yogyakarta,Full-time,Graphic Designer,0,1,0,0,0,0,0,0,0
+Hearing Impairment,Adaptability,PHP,CodeGenius,Bali,Bali,Part-time,Graphic Designer,1,0,0,0,0,0,0,0,0
+Physical Disability,Collaboration,SQL,TechSolutions,Surabaya,Jawa Timur,Full-time,Graphic Designer,0,0,1,0,0,0,0,0,0
+Learning Disability,Critical thinking,Ruby on Rails,InfoLab,Bandung,Jawa Barat,Contract,Graphic Designer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Attention to detail,Python,ByteTech,Jakarta,Jakarta Raya,Part-time,Graphic Designer,0,0,0,0,0,0,0,1,0
+Learning Disability,Critical thinking,Ruby on Rails,WebCraft,Bandung,Jawa Barat,Contract,Graphic Designer,0,0,0,0,0,0,0,0,1
+Cognitive Disability,Analytical skills,C++,ByteBytes,Semarang,Jawa Tengah,Full-time,Graphic Designer,0,0,0,0,0,0,0,1,0
+Physical Disability,Leadership,Java,Tech Solutions,Surabaya,Jawa Timur,Part-time,Graphic Designer,0,0,1,0,0,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),C++,Analytical skills,ByteBytes,Semarang,Jawa Tengah,Contract,Data Scientist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Teamwork,Python,XYZ Solutions,Bandung,Jawa Barat,Contract,Data Scientist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Time management,HTML,Global Ventures,Medan,Sumatera Utara,Full-time,Data Scientist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Analytical skills,C++,Innovate Systems,Semarang,Jawa Tengah,Contract,Data Scientist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Adaptability,PHP,Data Solutions,Bali,Bali,Part-time,Data Scientist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Critical thinking,Ruby on Rails,CodeCraft,Bandung,Jawa Barat,Contract,Data Scientist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Attention to detail,Python,TechGenius,Jakarta,Jakarta Raya,Part-time,Data Scientist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Communication skills,Microsoft Office,Innovation Hub,Jakarta,Jakarta Raya,Full-time,Data Scientist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Leadership,JavaScript,InfoTech,Surabaya,Jawa Timur,Part-time,Data Scientist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Time management,HTML,Design Co.,Medan,Sumatera Utara,Full-time,Data Scientist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Adaptability,Java,AppSolutions,Bali,Bali,Part-time,Data Scientist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Critical thinking,PHP,Coding Solutions,Bandung,Jawa Barat,Contract,Data Scientist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Attention to detail,Python,InfoLab,Jakarta,Jakarta Raya,Part-time,Data Scientist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Communication skills,Microsoft Excel,TechHub,Jakarta,Jakarta Raya,Full-time,Data Scientist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Time management,HTML,Innovative Solutions,Medan,Sumatera Utara,Full-time,Data Scientist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Analytical skills,C++,DataGenius,Semarang,Jawa Tengah,Contract,Data Scientist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Adaptability,PHP,InfoSolutions,Bali,Bali,Part-time,Data Scientist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Critical thinking,Ruby on Rails,WebWorks,Bandung,Jawa Barat,Contract,Data Scientist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Attention to detail,Python,TechConnect,Jakarta,Jakarta Raya,Part-time,Data Scientist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Communication skills,Microsoft Office,Innovative Solutions,Jakarta,Jakarta Raya,Full-time,Data Scientist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Leadership,JavaScript,ByteTech,Surabaya,Jawa Timur,Part-time,Data Scientist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Time management,HTML,DesignSolutions,Medan,Sumatera Utara,Full-time,Data Scientist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Adaptability,Java,TechSolutions,Bali,Bali,Part-time,Data Scientist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Critical thinking,PHP,CodingTech,Bandung,Jawa Barat,Contract,Data Scientist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Attention to detail,Python,InfoTech,Jakarta,Jakarta Raya,Part-time,Data Scientist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Communication skills,Microsoft Excel,TechCo,Jakarta,Jakarta Raya,Full-time,Data Scientist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Time management,HTML,WebTech,Medan,Sumatera Utara,Full-time,Data Scientist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Analytical skills,C++,ByteBytes,Semarang,Jawa Tengah,Contract,Data Scientist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Adaptability,PHP,CodeGenius,Bali,Bali,Part-time,Data Scientist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Critical thinking,Ruby on Rails,InfoLab,Bandung,Jawa Barat,Contract,Data Scientist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Attention to detail,Python,ByteTech,Jakarta,Jakarta Raya,Part-time,Data Scientist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Communication skills,Microsoft Excel,Innovation Hub,Jakarta,Jakarta Raya,Full-time,Data Scientist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Time management,HTML,WebWorks,Medan,Sumatera Utara,Full-time,Data Scientist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Critical thinking,Ruby on Rails,WebCraft,Bandung,Jawa Barat,Contract,Data Scientist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Analytical skills,C++,ByteBytes,Semarang,Jawa Tengah,Full-time,Data Scientist,0,0,0,0,1,0,0,0,0
+Speech Impairment,C++,Analytical skills,ByteBytes,Semarang,Jawa Tengah,Contract,Data Scientist,0,0,0,0,0,0,1,0,0
+Speech Impairment,Teamwork,Python,XYZ Solutions,Bandung,Jawa Barat,Contract,Data Scientist,0,0,0,0,0,0,1,0,0
+Speech Impairment,Time management,HTML,Global Ventures,Medan,Sumatera Utara,Full-time,Data Scientist,0,0,0,0,0,0,1,0,0
+Speech Impairment,Analytical skills,C++,Innovate Systems,Semarang,Jawa Tengah,Contract,Data Scientist,0,0,0,0,0,0,1,0,0
+Speech Impairment,Adaptability,PHP,Data Solutions,Bali,Bali,Part-time,Data Scientist,0,0,0,0,0,0,1,0,0
+Speech Impairment,Critical thinking,Ruby on Rails,CodeCraft,Bandung,Jawa Barat,Contract,Data Scientist,0,0,0,0,0,0,1,0,0
+Speech Impairment,Attention to detail,Python,TechGenius,Jakarta,Jakarta Raya,Part-time,Data Scientist,0,0,0,0,0,0,1,0,0
+Speech Impairment,Communication skills,Microsoft Office,Innovation Hub,Jakarta,Jakarta Raya,Full-time,Data Scientist,0,0,0,0,0,0,1,0,0
+Speech Impairment,Leadership,JavaScript,InfoTech,Surabaya,Jawa Timur,Part-time,Data Scientist,0,0,0,0,0,0,1,0,0
+Speech Impairment,Time management,HTML,Design Co.,Medan,Sumatera Utara,Full-time,Data Scientist,0,0,0,0,0,0,1,0,0
+Speech Impairment,Adaptability,Java,AppSolutions,Bali,Bali,Part-time,Data Scientist,0,0,0,0,0,0,1,0,0
+Speech Impairment,Critical thinking,PHP,Coding Solutions,Bandung,Jawa Barat,Contract,Data Scientist,0,0,0,0,0,0,1,0,0
+Speech Impairment,Attention to detail,Python,InfoLab,Jakarta,Jakarta Raya,Part-time,Data Scientist,0,0,0,0,0,0,1,0,0
+Speech Impairment,Communication skills,Microsoft Excel,TechHub,Jakarta,Jakarta Raya,Full-time,Data Scientist,0,0,0,0,0,0,1,0,0
+Speech Impairment,Time management,HTML,Innovative Solutions,Medan,Sumatera Utara,Full-time,Data Scientist,0,0,0,0,0,0,1,0,0
+Speech Impairment,Analytical skills,C++,DataGenius,Semarang,Jawa Tengah,Contract,Data Scientist,0,0,0,0,0,0,1,0,0
+Speech Impairment,Adaptability,PHP,InfoSolutions,Bali,Bali,Part-time,Data Scientist,0,0,0,0,0,0,1,0,0
+Speech Impairment,Critical thinking,Ruby on Rails,WebWorks,Bandung,Jawa Barat,Contract,Data Scientist,0,0,0,0,0,0,1,0,0
+Speech Impairment,Attention to detail,Python,TechConnect,Jakarta,Jakarta Raya,Part-time,Data Scientist,0,0,0,0,0,0,1,0,0
+Speech Impairment,Communication skills,Microsoft Office,Innovative Solutions,Jakarta,Jakarta Raya,Full-time,Data Scientist,0,0,0,0,0,0,1,0,0
+Speech Impairment,Leadership,JavaScript,ByteTech,Surabaya,Jawa Timur,Part-time,Data Scientist,0,0,0,0,0,0,1,0,0
+Speech Impairment,Time management,HTML,DesignSolutions,Medan,Sumatera Utara,Full-time,Data Scientist,0,0,0,0,0,0,1,0,0
+Speech Impairment,Adaptability,Java,TechSolutions,Bali,Bali,Part-time,Data Scientist,0,0,0,0,0,0,1,0,0
+Speech Impairment,Critical thinking,PHP,CodingTech,Bandung,Jawa Barat,Contract,Data Scientist,0,0,0,0,0,0,1,0,0
+Speech Impairment,Attention to detail,Python,InfoTech,Jakarta,Jakarta Raya,Part-time,Data Scientist,0,0,0,0,0,0,1,0,0
+Speech Impairment,Communication skills,Microsoft Excel,TechCo,Jakarta,Jakarta Raya,Full-time,Data Scientist,0,0,0,0,0,0,1,0,0
+Speech Impairment,Time management,HTML,WebTech,Medan,Sumatera Utara,Full-time,Data Scientist,0,0,0,0,0,0,1,0,0
+Speech Impairment,Analytical skills,C++,ByteBytes,Semarang,Jawa Tengah,Contract,Data Scientist,0,0,0,0,0,0,1,0,0
+Speech Impairment,Adaptability,PHP,CodeGenius,Bali,Bali,Part-time,Data Scientist,0,0,0,0,0,0,1,0,0
+Speech Impairment,Critical thinking,Ruby on Rails,InfoLab,Bandung,Jawa Barat,Contract,Data Scientist,0,0,0,0,0,0,1,0,0
+Speech Impairment,Attention to detail,Python,ByteTech,Jakarta,Jakarta Raya,Part-time,Data Scientist,0,0,0,0,0,0,1,0,0
+Speech Impairment,Communication skills,Microsoft Excel,Innovation Hub,Jakarta,Jakarta Raya,Full-time,Data Scientist,0,0,0,0,0,0,1,0,0
+Speech Impairment,Time management,HTML,WebWorks,Medan,Sumatera Utara,Full-time,Data Scientist,0,0,0,0,0,0,1,0,0
+Speech Impairment,Critical thinking,Ruby on Rails,WebCraft,Bandung,Jawa Barat,Contract,Data Scientist,0,0,0,0,0,0,1,0,0
+Speech Impairment,Analytical skills,C++,ByteBytes,Semarang,Jawa Tengah,Full-time,Data Scientist,0,0,0,0,0,0,1,0,0
+Mobility Impairment,Communication skills,Microsoft Excel,ABC Corporation,Jakarta,Jakarta Raya,Full-time,Data Analyst,0,0,0,0,0,1,0,0,0
+Mobility Impairment,Leadership,Java,Acme Technologies,Surabaya,Jawa Timur,Part-time,IT Support Specialist,0,0,0,0,0,1,0,0,0
+Mobility Impairment,Time management,HTML,Global Ventures,Medan,Sumatera Utara,Full-time,Web Designer,0,0,0,0,0,1,0,0,0
+Mobility Impairment,Analytical skills,C++,Innovate Systems,Semarang,Jawa Tengah,Contract,Software Tester,0,0,0,0,0,1,0,0,0
+Mobility Impairment,Problem-solving,JavaScript,ByteBytes,Yogyakarta,Yogyakarta,Full-time,UX Designer,0,0,0,0,0,1,0,0,0
+Mobility Impairment,Collaboration,SQL,CyberTech,Surabaya,Jawa Timur,Full-time,Data Scientist,0,0,0,0,0,1,0,0,0
+Mobility Impairment,Critical thinking,Ruby on Rails,CodeCraft,Bandung,Jawa Barat,Contract,Full-stack Developer,0,0,0,0,0,1,0,0,0
+Mobility Impairment,Attention to detail,Python,TechGenius,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,0,0,0,0,1,0,0,0
+Mobility Impairment,Communication skills,Microsoft Office,Innovation Hub,Jakarta,Jakarta Raya,Full-time,Administrative Assistant,0,0,0,0,0,1,0,0,0
+Mobility Impairment,Leadership,JavaScript,InfoTech,Surabaya,Jawa Timur,Part-time,Web Developer,0,0,0,0,0,1,0,0,0
+Mobility Impairment,Time management,HTML,Design Co.,Medan,Sumatera Utara,Full-time,Graphic Designer,0,0,0,0,0,1,0,0,0
+Mobility Impairment,Analytical skills,Python,DataTech,Semarang,Jawa Tengah,Contract,Data Scientist,0,0,0,0,0,1,0,0,0
+Mobility Impairment,Problem-solving,UI/UX design,WebCraft,Yogyakarta,Yogyakarta,Full-time,UX Designer,0,0,0,0,0,1,0,0,0
+Mobility Impairment,Collaboration,SQL,TechWizards,Surabaya,Jawa Timur,Full-time,Data Analyst,0,0,0,0,0,1,0,0,0
+Mobility Impairment,Critical thinking,PHP,Coding Solutions,Bandung,Jawa Barat,Contract,Full-stack Developer,0,0,0,0,0,1,0,0,0
+Mobility Impairment,Attention to detail,Python,InfoLab,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,0,0,0,0,1,0,0,0
+Mobility Impairment,Communication skills,Microsoft Excel,TechHub,Jakarta,Jakarta Raya,Full-time,Administrative Assistant,0,0,0,0,0,1,0,0,0
+Mobility Impairment,Leadership,Java,ByteTech,Surabaya,Jawa Timur,Part-time,IT Support Specialist,0,0,0,0,0,1,0,0,0
+Mobility Impairment,Time management,HTML,Innovative Solutions,Medan,Sumatera Utara,Full-time,Web Designer,0,0,0,0,0,1,0,0,0
+Mobility Impairment,Analytical skills,C++,DataGenius,Semarang,Jawa Tengah,Contract,Software Tester,0,0,0,0,0,1,0,0,0
+Mobility Impairment,Problem-solving,JavaScript,TechBytes,Yogyakarta,Yogyakarta,Full-time,UX Designer,0,0,0,0,0,1,0,0,0
+Mobility Impairment,Collaboration,SQL,TechGenie,Surabaya,Jawa Timur,Full-time,Data Scientist,0,0,0,0,0,1,0,0,0
+Mobility Impairment,Critical thinking,Ruby on Rails,WebWorks,Bandung,Jawa Barat,Contract,Full-stack Developer,0,0,0,0,0,1,0,0,0
+Mobility Impairment,Attention to detail,Python,TechConnect,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,0,0,0,0,1,0,0,0
+Mobility Impairment,Communication skills,Microsoft Office,Innovative Solutions,Jakarta,Jakarta Raya,Full-time,Administrative Assistant,0,0,0,0,0,1,0,0,0
+Mobility Impairment,Leadership,JavaScript,ByteTech,Surabaya,Jawa Timur,Part-time,Web Developer,0,0,0,0,0,1,0,0,0
+Mobility Impairment,Time management,HTML,DesignSolutions,Medan,Sumatera Utara,Full-time,Graphic Designer,0,0,0,0,0,1,0,0,0
+Mobility Impairment,Analytical skills,Python,TechLab,Semarang,Jawa Tengah,Contract,Data Scientist,0,0,0,0,0,1,0,0,0
+Mobility Impairment,Problem-solving,UI/UX design,CodeCraft,Yogyakarta,Yogyakarta,Full-time,UX Designer,0,0,0,0,0,1,0,0,0
+Mobility Impairment,Collaboration,SQL,DataBytes,Surabaya,Jawa Timur,Full-time,Data Analyst,0,0,0,0,0,1,0,0,0
+Mobility Impairment,Critical thinking,PHP,CodingTech,Bandung,Jawa Barat,Contract,Full-stack Developer,0,0,0,0,0,1,0,0,0
+Mobility Impairment,Attention to detail,Python,InfoTech,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,0,0,0,0,1,0,0,0
+Mobility Impairment,Communication skills,Microsoft Excel,TechCo,Jakarta,Jakarta Raya,Full-time,Administrative Assistant,0,0,0,0,0,1,0,0,0
+Mobility Impairment,Leadership,Java,TechSolutions,Surabaya,Jawa Timur,Part-time,IT Support Specialist,0,0,0,0,0,1,0,0,0
+Mobility Impairment,Time management,HTML,WebTech,Medan,Sumatera Utara,Full-time,Web Designer,0,0,0,0,0,1,0,0,0
+Mobility Impairment,Analytical skills,C++,ByteBytes,Semarang,Jawa Tengah,Contract,Software Tester,0,0,0,0,0,1,0,0,0
+Mobility Impairment,Problem-solving,JavaScript,Innovate Systems,Yogyakarta,Yogyakarta,Full-time,UX Designer,0,0,0,0,0,1,0,0,0
+Mobility Impairment,Collaboration,SQL,TechSolutions,Surabaya,Jawa Timur,Full-time,Data Scientist,0,0,0,0,0,1,0,0,0
+Mobility Impairment,Critical thinking,Ruby on Rails,InfoLab,Bandung,Jawa Barat,Contract,Full-stack Developer,0,0,0,0,0,1,0,0,0
+Mobility Impairment,Attention to detail,Python,ByteTech,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,0,0,0,0,1,0,0,0
+Mobility Impairment,Communication skills,Microsoft Excel,Innovation Hub,Jakarta,Jakarta Raya,Full-time,Administrative Assistant,0,0,0,0,0,1,0,0,0
+Mobility Impairment,Time management,HTML,WebWorks,Medan,Sumatera Utara,Full-time,Web Designer,0,0,0,0,0,1,0,0,0
+Mobility Impairment,Critical thinking,Ruby on Rails,WebCraft,Bandung,Jawa Barat,Contract,Full-stack Developer,0,0,0,0,0,1,0,0,0
+Mobility Impairment,Analytical skills,C++,ByteBytes,Semarang,Jawa Tengah,Part-time,Contract,0,0,0,0,0,1,0,0,0
+Mobility Impairment,Leadership,Java,Tech Solutions,Surabaya,Jawa Timur,Part-time,IT Support Specialist,0,0,0,0,0,1,0,0,0
+Speech Impairment,Communication skills,Microsoft Excel,ABC Corporation,Jakarta,Jakarta Raya,Full-time,Data Analyst,0,0,0,0,0,0,1,0,0
+Speech Impairment,Leadership,Java,Acme Technologies,Surabaya,Jawa Timur,Part-time,IT Support Specialist,0,0,0,0,0,0,1,0,0
+Speech Impairment,Time management,HTML,Global Ventures,Medan,Sumatera Utara,Full-time,Web Designer,0,0,0,0,0,0,1,0,0
+Speech Impairment,Analytical skills,C++,Innovate Systems,Semarang,Jawa Tengah,Contract,Software Tester,0,0,0,0,0,0,1,0,0
+Speech Impairment,Problem-solving,JavaScript,ByteBytes,Yogyakarta,Yogyakarta,Full-time,UX Designer,0,0,0,0,0,0,1,0,0
+Speech Impairment,Collaboration,SQL,CyberTech,Surabaya,Jawa Timur,Full-time,Data Scientist,0,0,0,0,0,0,1,0,0
+Speech Impairment,Critical thinking,Ruby on Rails,CodeCraft,Bandung,Jawa Barat,Contract,Full-stack Developer,0,0,0,0,0,0,1,0,0
+Speech Impairment,Attention to detail,Python,TechGenius,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,0,0,0,0,0,1,0,0
+Speech Impairment,Communication skills,Microsoft Office,Innovation Hub,Jakarta,Jakarta Raya,Full-time,Administrative Assistant,0,0,0,0,0,0,1,0,0
+Speech Impairment,Leadership,JavaScript,InfoTech,Surabaya,Jawa Timur,Part-time,Web Developer,0,0,0,0,0,0,1,0,0
+Speech Impairment,Time management,HTML,Design Co.,Medan,Sumatera Utara,Full-time,Graphic Designer,0,0,0,0,0,0,1,0,0
+Speech Impairment,Analytical skills,Python,DataTech,Semarang,Jawa Tengah,Contract,Data Scientist,0,0,0,0,0,0,1,0,0
+Speech Impairment,Problem-solving,UI/UX design,WebCraft,Yogyakarta,Yogyakarta,Full-time,UX Designer,0,0,0,0,0,0,1,0,0
+Speech Impairment,Collaboration,SQL,TechWizards,Surabaya,Jawa Timur,Full-time,Data Analyst,0,0,0,0,0,0,1,0,0
+Speech Impairment,Critical thinking,PHP,Coding Solutions,Bandung,Jawa Barat,Contract,Full-stack Developer,0,0,0,0,0,0,1,0,0
+Speech Impairment,Attention to detail,Python,InfoLab,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,0,0,0,0,0,1,0,0
+Speech Impairment,Communication skills,Microsoft Excel,TechHub,Jakarta,Jakarta Raya,Full-time,Administrative Assistant,0,0,0,0,0,0,1,0,0
+Speech Impairment,Leadership,Java,ByteTech,Surabaya,Jawa Timur,Part-time,IT Support Specialist,0,0,0,0,0,0,1,0,0
+Speech Impairment,Time management,HTML,Innovative Solutions,Medan,Sumatera Utara,Full-time,Web Designer,0,0,0,0,0,0,1,0,0
+Speech Impairment,Analytical skills,C++,DataGenius,Semarang,Jawa Tengah,Contract,Software Tester,0,0,0,0,0,0,1,0,0
+Speech Impairment,Problem-solving,JavaScript,TechBytes,Yogyakarta,Yogyakarta,Full-time,UX Designer,0,0,0,0,0,0,1,0,0
+Speech Impairment,Collaboration,SQL,TechGenie,Surabaya,Jawa Timur,Full-time,Data Scientist,0,0,0,0,0,0,1,0,0
+Speech Impairment,Critical thinking,Ruby on Rails,WebWorks,Bandung,Jawa Barat,Contract,Full-stack Developer,0,0,0,0,0,0,1,0,0
+Speech Impairment,Attention to detail,Python,TechConnect,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,0,0,0,0,0,1,0,0
+Speech Impairment,Communication skills,Microsoft Office,Innovative Solutions,Jakarta,Jakarta Raya,Full-time,Administrative Assistant,0,0,0,0,0,0,1,0,0
+Speech Impairment,Leadership,JavaScript,ByteTech,Surabaya,Jawa Timur,Part-time,Web Developer,0,0,0,0,0,0,1,0,0
+Speech Impairment,Time management,HTML,DesignSolutions,Medan,Sumatera Utara,Full-time,Graphic Designer,0,0,0,0,0,0,1,0,0
+Speech Impairment,Analytical skills,Python,TechLab,Semarang,Jawa Tengah,Contract,Data Scientist,0,0,0,0,0,0,1,0,0
+Speech Impairment,Problem-solving,UI/UX design,CodeCraft,Yogyakarta,Yogyakarta,Full-time,UX Designer,0,0,0,0,0,0,1,0,0
+Speech Impairment,Collaboration,SQL,DataBytes,Surabaya,Jawa Timur,Full-time,Data Analyst,0,0,0,0,0,0,1,0,0
+Speech Impairment,Critical thinking,PHP,CodingTech,Bandung,Jawa Barat,Contract,Full-stack Developer,0,0,0,0,0,0,1,0,0
+Speech Impairment,Attention to detail,Python,InfoTech,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,0,0,0,0,0,1,0,0
+Speech Impairment,Communication skills,Microsoft Excel,TechCo,Jakarta,Jakarta Raya,Full-time,Administrative Assistant,0,0,0,0,0,0,1,0,0
+Speech Impairment,Leadership,Java,TechSolutions,Surabaya,Jawa Timur,Part-time,IT Support Specialist,0,0,0,0,0,0,1,0,0
+Speech Impairment,Time management,HTML,WebTech,Medan,Sumatera Utara,Full-time,Web Designer,0,0,0,0,0,0,1,0,0
+Speech Impairment,Analytical skills,C++,ByteBytes,Semarang,Jawa Tengah,Contract,Software Tester,0,0,0,0,0,0,1,0,0
+Speech Impairment,Problem-solving,JavaScript,Innovate Systems,Yogyakarta,Yogyakarta,Full-time,UX Designer,0,0,0,0,0,0,1,0,0
+Speech Impairment,Collaboration,SQL,TechSolutions,Surabaya,Jawa Timur,Full-time,Data Scientist,0,0,0,0,0,0,1,0,0
+Speech Impairment,Critical thinking,Ruby on Rails,InfoLab,Bandung,Jawa Barat,Contract,Full-stack Developer,0,0,0,0,0,0,1,0,0
+Speech Impairment,Attention to detail,Python,ByteTech,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,0,0,0,0,0,1,0,0
+Speech Impairment,Communication skills,Microsoft Excel,Innovation Hub,Jakarta,Jakarta Raya,Full-time,Administrative Assistant,0,0,0,0,0,0,1,0,0
+Speech Impairment,Time management,HTML,WebWorks,Medan,Sumatera Utara,Full-time,Web Designer,0,0,0,0,0,0,1,0,0
+Speech Impairment,Critical thinking,Ruby on Rails,WebCraft,Bandung,Jawa Barat,Contract,Full-stack Developer,0,0,0,0,0,0,1,0,0
+Speech Impairment,Analytical skills,C++,ByteBytes,Semarang,Jawa Tengah,Part-time,Contract,0,0,0,0,0,0,1,0,0
+Speech Impairment,Leadership,Java,Tech Solutions,Surabaya,Jawa Timur,Part-time,IT Support Specialist,0,0,0,0,0,0,1,0,0
+Neurodiversity (Autism Spectrum Disorder),Communication skills,Microsoft Excel,ABC Corporation,Jakarta,Jakarta Raya,Full-time,Data Analyst,0,0,0,0,1,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Leadership,Java,Acme Technologies,Surabaya,Jawa Timur,Part-time,IT Support Specialist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Time management,HTML,Global Ventures,Medan,Sumatera Utara,Full-time,Web Designer,0,0,0,0,1,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Analytical skills,C++,Innovate Systems,Semarang,Jawa Tengah,Contract,Software Tester,0,0,0,0,1,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Problem-solving,JavaScript,ByteBytes,Yogyakarta,Yogyakarta,Full-time,UX Designer,0,0,0,0,1,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Collaboration,SQL,CyberTech,Surabaya,Jawa Timur,Full-time,Data Scientist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Critical thinking,Ruby on Rails,CodeCraft,Bandung,Jawa Barat,Contract,Full-stack Developer,0,0,0,0,1,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Attention to detail,Python,TechGenius,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,0,0,0,1,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Communication skills,Microsoft Office,Innovation Hub,Jakarta,Jakarta Raya,Full-time,Administrative Assistant,0,0,0,0,1,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Leadership,JavaScript,InfoTech,Surabaya,Jawa Timur,Part-time,Web Developer,0,0,0,0,1,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Time management,HTML,Design Co.,Medan,Sumatera Utara,Full-time,Graphic Designer,0,0,0,0,1,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Analytical skills,Python,DataTech,Semarang,Jawa Tengah,Contract,Data Scientist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Problem-solving,UI/UX design,WebCraft,Yogyakarta,Yogyakarta,Full-time,UX Designer,0,0,0,0,1,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Collaboration,SQL,TechWizards,Surabaya,Jawa Timur,Full-time,Data Analyst,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Critical thinking,PHP,Coding Solutions,Bandung,Jawa Barat,Contract,Full-stack Developer,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Attention to detail,Python,InfoLab,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Communication skills,Microsoft Excel,TechHub,Jakarta,Jakarta Raya,Full-time,Administrative Assistant,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Leadership,Java,ByteTech,Surabaya,Jawa Timur,Part-time,IT Support Specialist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Time management,HTML,Innovative Solutions,Medan,Sumatera Utara,Full-time,Web Designer,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Analytical skills,C++,DataGenius,Semarang,Jawa Tengah,Contract,Software Tester,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Problem-solving,JavaScript,TechBytes,Yogyakarta,Yogyakarta,Full-time,UX Designer,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Collaboration,SQL,TechGenie,Surabaya,Jawa Timur,Full-time,Data Scientist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Critical thinking,Ruby on Rails,WebWorks,Bandung,Jawa Barat,Contract,Full-stack Developer,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Attention to detail,Python,TechConnect,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Communication skills,Microsoft Office,Innovative Solutions,Jakarta,Jakarta Raya,Full-time,Administrative Assistant,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Leadership,JavaScript,ByteTech,Surabaya,Jawa Timur,Part-time,Web Developer,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Time management,HTML,DesignSolutions,Medan,Sumatera Utara,Full-time,Graphic Designer,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Analytical skills,Python,TechLab,Semarang,Jawa Tengah,Contract,Data Scientist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Problem-solving,UI/UX design,CodeCraft,Yogyakarta,Yogyakarta,Full-time,UX Designer,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Collaboration,SQL,DataBytes,Surabaya,Jawa Timur,Full-time,Data Analyst,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Critical thinking,PHP,CodingTech,Bandung,Jawa Barat,Contract,Full-stack Developer,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Attention to detail,Python,InfoTech,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Communication skills,Microsoft Excel,TechCo,Jakarta,Jakarta Raya,Full-time,Administrative Assistant,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Leadership,Java,TechSolutions,Surabaya,Jawa Timur,Part-time,IT Support Specialist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Time management,HTML,WebTech,Medan,Sumatera Utara,Full-time,Web Designer,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Analytical skills,C++,ByteBytes,Semarang,Jawa Tengah,Contract,Software Tester,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Problem-solving,JavaScript,Innovate Systems,Yogyakarta,Yogyakarta,Full-time,UX Designer,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Collaboration,SQL,TechSolutions,Surabaya,Jawa Timur,Full-time,Data Scientist,0,0,0,0,1,0,0,0,0
+Neurodiversity (Attention Deficit Hyperactivity Disorder),Critical thinking,Ruby on Rails,InfoLab,Bandung,Jawa Barat,Contract,Full-stack Developer,0,0,0,0,1,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Attention to detail,Python,ByteTech,Jakarta,Jakarta Raya,Part-time,Data Engineer,0,0,0,0,1,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Communication skills,Microsoft Excel,Innovation Hub,Jakarta,Jakarta Raya,Full-time,Administrative Assistant,0,0,0,0,1,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Time management,HTML,WebWorks,Medan,Sumatera Utara,Full-time,Web Designer,0,0,0,0,1,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Critical thinking,Ruby on Rails,WebCraft,Bandung,Jawa Barat,Contract,Full-stack Developer,0,0,0,0,1,0,0,0,0
+Neurodiversity (Autism Spectrum Disorder),Analytical skills,C++,ByteBytes,Semarang,Jawa Tengah,Part-time,Contract,0,0,0,0,1,0,0,0,0
