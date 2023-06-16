@@ -29,7 +29,7 @@ The hyperparameter tuning is performed using the RandomSearch tuner. It searches
 The model is trained using the optimal hyperparameters obtained from the tuning process. The training is performed on the training set for a specified number of epochs. The model is compiled with the Adam optimizer and categorical cross-entropy loss. Early stopping is applied to prevent overfitting. ⏱️
 
 ## 📝 Evaluation
-After training, the model is evaluated on the test set to measure its performance. The test loss and accuracy are reported.
+After training, the model is evaluated on the test set to measure its performance. Here's our last evaluation before the savedmodel, the evaluation could be change due to randomness. The test loss and accuracy are reported.
 ``` 
 Test Loss: 1.0059 
 Test Accuracy: 0.8929 
