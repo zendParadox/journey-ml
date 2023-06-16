@@ -1,7 +1,7 @@
 ---
 # 🚀 Capstone-Bangkit-2023-Journey
 
-## 💼 About Journey and Content Based Filtering
+## 💼 About Journey, Recommender System and Content Based Filtering
 Journey (Job and Empowerment for Disability) uses a TensorFlow model for content-based filtering to recommend job listings to users. 👩‍💼 The model learns from job attributes like disability type, positions, and skills to create embeddings representing the similarity between jobs. 📚 
 
 Content-based filtering is a type of recommendation system that works with data that the user provides, either explicitly (rating) or implicitly (clicking on a link). It uses the data to build a model of the user's preferences, then recommends items that are similar to those that the user has shown a preference for in the past. 📊
